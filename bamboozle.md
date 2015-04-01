@@ -6,10 +6,10 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| Chicken Noodle Salad
-[Minho](https://github.com/minhochoi)               | Beef Banh Mi
+[Daniel](https://github.com/dtartaglia)           	| Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
+[Minho](https://github.com/minhochoi)               | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
 [James](https://github.com/jlandrum)                | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
 [Greg](https://github.com/greghochsprung)           | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
-[Austin](https://github.com/austinmccarthy-haneke)  | 3 beef rolls - no noodles, pickled diakon and carrots, jalapenos, bean sprouts
-[Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi
+[Austin](https://github.com/austinmccarthy-haneke)  | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
+[Thomas](https://github.com/ThomasKomarnicki)       | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)
 [Jesse](https://github.com/jessecurry)              | Sweet and Savory Fall off the Bone Ribs served with Grilled Corn topped with Scallion Oil (Special)

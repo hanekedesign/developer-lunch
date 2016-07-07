@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 pork (all vegi). Side of onion-soysauce
 [Greg](https://github.com/greghochsprung)           | 3 rolls - 2 chicken, 1 kick'n chicken. lettuce, cucumber, carrots, and mango. Side of soy vinaigrette
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Wonton Soup
+[Jesse](https://github.com/jessecurry)              | 3 rolls - Pork - jicama instead of noodles, pickled diakon & carrots, cucumber, red pepper, roasted shallots – 3 citrus vinaigrette 
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - All Pork, carrots, mango, lettuce, 3x peanut sauce
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - kick'n chicken. lettuce, carrots, mango, cucumber, 3x peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

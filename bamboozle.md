@@ -14,3 +14,4 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - kick'n chicken. lettuce, carrots, mango, cucumber, 3x peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Austin C] (https://github.com/saleac)              | Beef Pho (No Sprouts)
+[Ayush] (https://github.com/ayushcshah)             | 1 veggie fresh roll (some hot sauce - medium hot)

@@ -14,5 +14,3 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - kick'n chicken. lettuce, carrots, mango, cucumber, 3x peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Ayush] (https://github.com/ayushcshah)             | 2 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)
-[Austin] (https://github.com/saleac)                | 1 Chicken Bahn Mi no cucumber
-

@@ -9,7 +9,7 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| 1 Beef Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 Beef (all vegi). Side of onion-soysauce
 [Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | 3 rolls - Kick'n Chicken - jicama instead of noodles, pickled diakon & carrots, cucumber, mandarin oranges, roasted shallots – 3 citrus vinaigrette
+[Jesse](https://github.com/jessecurry)              | 1 Grilled Pork Banh Mi and Small chicken & rice soup
 [Kyle] (https://github.com/kjswartz)                | 1 Beef Banh Mi
 [Mark] (http://github.com/mark-smithtb)             | 3 rolls - kick'n chicken. lettuce, carrots, mango, cucumber, 3x peanut sauce
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

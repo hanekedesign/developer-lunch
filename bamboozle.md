@@ -6,12 +6,12 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| 1 Beef Banh Mi w/Spicy Mayo
+[Daniel](https://github.com/dtartaglia)           	| Beef Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 Beef (all vegi). Side of onion-soysauce
-[Thomas](https://github.com/ThomasKomarnicki)       | 1 Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | 1 Grilled Pork Banh Mi and Small chicken & rice soup
+[Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
+[Jesse](https://github.com/jessecurry)              | Shaking Beef Banh Mi and Small chicken & rice soup
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - 3 pork lettuce, carrots, mango. 3x peanut sauce.
 [Mark] (http://github.com/mark-smithtb)             | Shaking Beef Banh Mi 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Ayush] (https://github.com/ayushcshah)             | 2 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)
-[Joe] (https://github.com/Montchat)                 | 1 Beef Banh Mi w/Spicy Mayo 
+[Joe] (https://github.com/Montchat)                 | Beef Banh Mi w/Spicy Mayo 

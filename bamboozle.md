@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Red Curry
 [Kyle] (https://github.com/kjswartz)                | Red Curry with carrots & ginger in a lemongrass, coconut broth
-[Mark] (http://github.com/mark-smithtb)             | Shaking Beef Banh Mi 
+[Mark] (http://github.com/mark-smithtb)             | Red Curry 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Ayush] (https://github.com/ayushcshah)             | 2 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)
 [Joe] (https://github.com/Montchat)                 | Beef Banh Mi w/Spicy Mayo 

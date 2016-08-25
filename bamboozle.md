@@ -9,7 +9,7 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | 
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | 3 pork rolls - no noodles/substitute jicama; pickled daikon & carrots, cucumbers, pineapple, red peppers – citrus vinaigrette
+[Jesse](https://github.com/jessecurry)              | Lo Mein – Add chicken 
 [Kyle] (https://github.com/kjswartz)                | Bamboozle Lo Mein with egg noodles
 [Mark] (http://github.com/mark-smithtb)             | Bamboozle Lo Mein with egg noodles
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

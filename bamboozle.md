@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 3 Beef (all vegi). Side of onion-soysauce
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | 3 pork rolls - no noodles/substitute jicama; pickled daikon & carrots, cucumbers, pineapple, red peppers – citrus vinaigrette
-[Kyle] (https://github.com/kjswartz)                | Pho Vit
+[Kyle] (https://github.com/kjswartz)                | Bamboozle Lo Mein with egg noodles
 [Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Ayush] (https://github.com/ayushcshah)             | 2 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)

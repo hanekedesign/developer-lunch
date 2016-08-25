@@ -7,7 +7,7 @@
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
-[Minho](https://github.com/minhochoi)               | 3 rolls - 3 Beef (all vegi). Side of onion-soysauce
+[Minho](https://github.com/minhochoi)               | 
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | 3 pork rolls - no noodles/substitute jicama; pickled daikon & carrots, cucumbers, pineapple, red peppers – citrus vinaigrette
 [Kyle] (https://github.com/kjswartz)                | Bamboozle Lo Mein with egg noodles

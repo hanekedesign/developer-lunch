@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Lo Mein – Add chicken 
-[Kyle] (https://github.com/kjswartz)                | Bamboozle Lo Mein with egg noodles
+[Kyle] (https://github.com/kjswartz)                | Wonton Soup w /Pork Dumplings simmered in a ginger pork bouillon
 [Mark] (http://github.com/mark-smithtb)             | Bamboozle Lo Mein with egg noodles
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Ayush] (https://github.com/ayushcshah)             | 2 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)

@@ -13,5 +13,5 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 
 [Mark] (http://github.com/mark-smithtb)             | Chicken Shirataki Noodle Soup
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
-[Ayush] (https://github.com/ayushcshah)             | 2 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)
+[Ayush] (https://github.com/ayushcshah)             | 3 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)
 [Joe] (https://github.com/Montchat)                 | Beef Banh Mi w/Spicy Mayo 

@@ -7,7 +7,7 @@
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Beef Banh Mi w/Spicy Mayo
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Beef Pho, side of spicy cukes
 [Kyle] (https://github.com/kjswartz)                | 

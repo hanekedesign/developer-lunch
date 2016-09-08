@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi w/Spicy Mayo
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Beef Pho, side of spicy cukes
-[Kyle] (https://github.com/kjswartz)                | 
+[Kyle] (https://github.com/kjswartz)                | Chicken Shirataki Noodle Soup with Shirataki wonder noodles, bean sprouts & chives simmered in a chicken broth topped with roasted shallots
 [Mark] (http://github.com/mark-smithtb)             | Chicken Shirataki Noodle Soup
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Ayush] (https://github.com/ayushcshah)             | 3 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)

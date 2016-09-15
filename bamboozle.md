@@ -7,7 +7,7 @@
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
-[Minho](https://github.com/minhochoi)               | Beef Banh Mi w/Spicy Mayo
+[Minho](https://github.com/minhochoi)               | 
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | 
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - Pork - lettuce, carrots, mango - 3x Peanut sauces

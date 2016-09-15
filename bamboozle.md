@@ -9,7 +9,7 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi w/Spicy Mayo
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Beef Pho, side of spicy cukes
+[Jesse](https://github.com/jessecurry)              | 
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - Pork - lettuce, carrots, mango - 3x Peanut sauces
 [Mark] (http://github.com/mark-smithtb)             | Sesame Glass Noodles - served with sautéed carrots & onions in a sesame garlic soy sauce (v)
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

@@ -9,9 +9,8 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Lo Mein add Chicken
+[Jesse](https://github.com/jessecurry)              | Pork Banh Mi and small chicken & rice soup
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - Pork - lettuce, carrots, mango - 3x Peanut sauces
 [Mark] (http://github.com/mark-smithtb)             | Bamboozle Lo Mein with egg noodles, snow peas, carrots,ginger & green onions sauce 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
-[Ayush] (https://github.com/ayushcshah)             | 3 veggie fresh rolls - cilantro, cucumber, lettuce, roasted shallots and mango (some hot sauce - medium hot)
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi w/Spicy Mayo 

@@ -9,7 +9,7 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Pork Banh Mi and small chicken & rice soup
+[Jesse](https://github.com/jessecurry)              | 3 chicken rolls - no noodles/substitute jicama; pickled daikon & carrots, cucumbers, pineapple, red peppers – citrus vinaigrette
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - Pork - lettuce, carrots, mango - 3x Peanut sauces
 [Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

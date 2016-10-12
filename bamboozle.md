@@ -11,6 +11,6 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Pork Banh Mi and small chicken & rice soup
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - Pork - lettuce, carrots, mango - 3x Peanut sauces
-[Mark] (http://github.com/mark-smithtb)             | Papaya Salad w/Crispy Duck tossed with red bell peppers, cilantro, roasted shallots and peanuts (gf)
+[Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

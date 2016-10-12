@@ -13,4 +13,4 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - Pork - lettuce, carrots, mango - 3x Peanut sauces
 [Mark] (http://github.com/mark-smithtb)             | Papaya Salad w/Crispy Duck tossed with red bell peppers, cilantro, roasted shallots and peanuts (gf)
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | Chicken Banh Mi w/Spicy Mayo 
+[Joe] (https://github.com/Montchat)                 | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Chicken Cafe Salad - pickled daikon & carrots in place of carrots,  jicama, pineapple, red peppers, roasted shallots – citrus vinaigrette
 [Kyle] (https://github.com/kjswartz)                | Bamboozle Fried Brown Rice with chicken, pork and beef with red bell peppers, onions & bean sprouts
-[Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
+[Mark] (http://github.com/mark-smithtb)             | Bamboozle Fried Brown Rice with chicken, pork and beef with red bell peppers, onions & bean sprouts
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Matt] (https://github.com/ohmattschwartz)          | Chicken Banh Mi 

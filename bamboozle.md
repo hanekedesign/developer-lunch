@@ -13,5 +13,5 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - pork. lettuce, carrots, mango, citrus vinaigrette 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Bamboozle Fried Brown Rice with chicken, pork and beef with red bell peppers, onions & bean sprouts
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
+[Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
 [Matt] (https://github.com/ohmattschwartz)          | Chicken Banh Mi 

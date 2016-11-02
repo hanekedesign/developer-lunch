@@ -9,7 +9,7 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Chicken Banh Mi (no jalepeño)
+[Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry with Chicken
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - pork. lettuce, carrots, mango, citrus vinaigrette 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette

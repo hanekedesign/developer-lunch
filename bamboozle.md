@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry with Chicken
 [Kyle] (https://github.com/kjswartz)                | Pumpkin Yellow Curry in a lemongrass, coconut broth served with Jasmine rice
-[Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
+[Mark] (http://github.com/mark-smithtb)             | Pumpkin Yellow Curry in a lemongrass, coconut broth served with Jasmine rice
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/Spicy Mayo

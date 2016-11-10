@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | OUT SICK
 [Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry with Chicken
-[Kyle] (https://github.com/kjswartz)                | Pumpkin Yellow Curry in a lemongrass, coconut broth served with Jasmine rice
+[Kyle] (https://github.com/kjswartz)                | 3 rolls - pork. lettuce, carrots, mango 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Pumpkin Yellow Curry in a lemongrass, coconut broth served with Jasmine rice
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)

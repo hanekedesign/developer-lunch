@@ -16,4 +16,4 @@ Developer     | Order
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/Spicy Mayo
 [Brad] (https://github.com/bself)                   | 
-Greg                                                | 2 rolls - Grilled chicken. lettuce, carrots, onions, tomatoes, citrus vinaigrette
+Greg                                                |  

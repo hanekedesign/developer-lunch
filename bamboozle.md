@@ -14,5 +14,5 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | Kimchi Pork Fried Rice with grilled pork, red bell, carrots and onions topped with cilantro (gf)
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
-[Nate] (https://github.com/thunemn)                 | 3 rolls - ahi tuna, grilled chicken, kick'n chicken - w/chives, red peppers, citrus vinaigrette. cucumber
+[Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/extra Spicy Mayo
 [Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                               

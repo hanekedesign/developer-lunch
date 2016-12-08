@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | OUT
-[Kyle] (https://github.com/kjswartz)                | 3 rolls - pork. lettuce, carrots, mango 3x peanute sauces
+[Kyle] (https://github.com/kjswartz)                | Kimchi Pork Fried Rice with grilled pork, red bell, carrots and onions topped with cilantro
 [Mark] (http://github.com/mark-smithtb)             | Kimchi Pork Fried Rice with grilled pork, red bell, carrots and onions topped with cilantro (gf)
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)

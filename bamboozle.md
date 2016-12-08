@@ -16,4 +16,4 @@ Developer     | Order
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
 [Nate] (https://github.com/thunemn)                 | 3 rolls - ahi tuna, grilled chicken, kick'n chicken - w/chives, red peppers, citrus vinaigrette. cucumber
 [Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)
-Greg                                                | 2 rolls - grilled chicken, carrots, onions, tomatoes, citrus vinaigrette
+Greg                                                

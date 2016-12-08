@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | OUT
 [Kyle] (https://github.com/kjswartz)                | 3 rolls - pork. lettuce, carrots, mango 3x peanute sauces
-[Mark] (http://github.com/mark-smithtb)             | Lemongrass Beef Tacos 
+[Mark] (http://github.com/mark-smithtb)             | Kimchi Pork Fried Rice with grilled pork, red bell, carrots and onions topped with cilantro (gf)
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
 [Nate] (https://github.com/thunemn)                 | 3 rolls - ahi tuna, grilled chicken, kick'n chicken - w/chives, red peppers, citrus vinaigrette. cucumber

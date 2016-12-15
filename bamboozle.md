@@ -14,6 +14,6 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
-[Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/extra Spicy Mayo
+[Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
 [Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                               
 [Greg]                                              | 2 rolls - grilled chicken, carrots, onions, tomatoes, citrus vinaigrette

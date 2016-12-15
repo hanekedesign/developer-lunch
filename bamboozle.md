@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Ginger Chicken
-[Kyle] (https://github.com/kjswartz)                | 
+[Kyle] (https://github.com/kjswartz)                | 2 rolls - pork. lettuce, carrots, mango 2x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Ginger Chicken

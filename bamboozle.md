@@ -15,5 +15,5 @@ Developer     | Order
 [Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Ginger Chicken
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
-[Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                               
-[Greg]                                              | 2 rolls - grilled chicken, carrots, onions, tomatoes, citrus vinaigrette
+[Brad] (https://github.com/bself)                   |                                             
+[Greg] ()                                           | 2 rolls - grilled chicken, carrots, onions, tomatoes, citrus vinaigrette

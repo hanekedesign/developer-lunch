@@ -16,4 +16,4 @@ Developer     | Order
 [Joe] (https://github.com/Montchat)                 | Ginger Chicken
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
 [Brad] (https://github.com/bself)                   |                                             
-[Greg] ()                                           | 2 rolls - grilled chicken, carrots, onions, tomatoes, citrus vinaigrette
+[Greg] ()                                           | 

@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Ginger Chicken
 [Kyle] (https://github.com/kjswartz)                | 2 rolls - pork. lettuce, carrots, mango 2x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
-[Chris] (https://github.com/stomp1128)              | 3 rolls - kick'n chicken. lettuce, carrots, mango, citrus vinaigrette
+[Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Ginger Chicken
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
 [Brad] (https://github.com/bself)                   |                                             

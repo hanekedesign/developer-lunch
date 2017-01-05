@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Nam Sod Wraps (no peanuts if possible)
 [Kyle] (https://github.com/kjswartz)                | Nam Sod Wraps
-[Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/Spicy Mayo
+[Mark] (http://github.com/mark-smithtb)             | Nam Sod Wraps
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Nam Sod Wraps
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo

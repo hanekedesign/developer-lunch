@@ -15,6 +15,6 @@ Developer     | Order
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Nam Sod Wraps
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
-[Brad] (https://github.com/bself)                   |                                             
+[Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                         
 [Greg] ()                                           | 
 [Kevin] ()                                          | 2 rolls - BBQ Pork

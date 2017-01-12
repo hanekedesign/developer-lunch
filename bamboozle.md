@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Chicken Tacos
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - 1x Kick’n Chicken, 1x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
-[Mark] (http://github.com/mark-smithtb)             | 
+[Mark] (http://github.com/mark-smithtb)             | Chicken Tacos
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Tacos
 [Nate] (https://github.com/thunemn)                 | Chicken Tacos

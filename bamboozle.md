@@ -14,7 +14,7 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Tacos
-[Nate] (https://github.com/thunemn)                 | 
+[Nate] (https://github.com/thunemn)                 | Chicken Tacos
 [Brad] (https://github.com/bself)                   | nothing                                      
 [Greg] ()                                           | 
 [Kevin] ()                                          | 

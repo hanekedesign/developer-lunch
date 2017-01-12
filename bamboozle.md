@@ -17,4 +17,4 @@ Developer     | Order
 [Nate] (https://github.com/thunemn)                 | 
 [Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                         
 [Greg] ()                                           | 
-[Kevin] ()                                          | 2 rolls - BBQ Pork
+[Kevin] ()                                          | 

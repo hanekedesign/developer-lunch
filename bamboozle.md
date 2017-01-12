@@ -15,6 +15,6 @@ Developer     | Order
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Tacos
 [Nate] (https://github.com/thunemn)                 | 
-[Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                         
+[Brad] (https://github.com/bself)                   | nothing                                      
 [Greg] ()                                           | 
 [Kevin] ()                                          | 

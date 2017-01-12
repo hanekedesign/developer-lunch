@@ -13,7 +13,7 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - 1x Kick’n Chicken, 1x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | 
+[Joe] (https://github.com/Montchat)                 | Chicken Tacos
 [Nate] (https://github.com/thunemn)                 | 
 [Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                         
 [Greg] ()                                           | 

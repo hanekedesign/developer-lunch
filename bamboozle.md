@@ -9,12 +9,12 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Nam Sod Wraps (no peanuts if possible)
+[Jesse](https://github.com/jessecurry)              | Chicken Tacos
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - 1x Kick’n Chicken, 1x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
-[Mark] (http://github.com/mark-smithtb)             | Nam Sod Wraps
+[Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | Nam Sod Wraps
-[Nate] (https://github.com/thunemn)                 | Nam Sod Wraps
+[Joe] (https://github.com/Montchat)                 | 
+[Nate] (https://github.com/thunemn)                 | 
 [Brad] (https://github.com/bself)                   | Chicken Banh Mi (no jalepeño)                                         
 [Greg] ()                                           | 
 [Kevin] ()                                          | 2 rolls - BBQ Pork

@@ -13,7 +13,7 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - 1x pork. 2x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | 
+[Joe] (https://github.com/Montchat)                 | Pumpkin Yellow Curry with Chicken
 [Nate] (https://github.com/thunemn)                 | 
 [Brad] (https://github.com/bself)                   |                                      
 [Greg] ()                                           | 

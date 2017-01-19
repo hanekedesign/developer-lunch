@@ -9,12 +9,12 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Beef Banh Mi
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
-[Jesse](https://github.com/jessecurry)              | Chicken Tacos
+[Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry with Chicken
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - 1x pork. 2x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
-[Mark] (http://github.com/mark-smithtb)             | Chicken Tacos
+[Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | Chicken Tacos
-[Nate] (https://github.com/thunemn)                 | Chicken Tacos
-[Brad] (https://github.com/bself)                   | nothing                                      
+[Joe] (https://github.com/Montchat)                 | 
+[Nate] (https://github.com/thunemn)                 | 
+[Brad] (https://github.com/bself)                   |                                      
 [Greg] ()                                           | 
 [Kevin] ()                                          | 

@@ -15,6 +15,6 @@ Developer     | Order
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Pumpkin Yellow Curry with Chicken
 [Nate] (https://github.com/thunemn)                 | 
-[Brad] (https://github.com/bself)                   |                                      
+[Brad] (https://github.com/bself)                   | Beef Banh Mi                                   
 [Greg] ()                                           | 
 [Kevin] ()                                          | 

@@ -13,7 +13,7 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 
 [Mark] (http://github.com/mark-smithtb)             | Lo Mein with Chicken
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | 
+[Joe] (https://github.com/Montchat)                 | Lo Mein with Chicken
 [Nate] (https://github.com/thunemn)                 | Lo Mein with Chicken
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                                   
 [Greg] ()                                           | 

@@ -14,7 +14,7 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | 
-[Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
+[Nate] (https://github.com/thunemn)                 | Lo Mein with Chicken
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                                   
 [Greg] ()                                           | 
 [Kevin] ()                                          | 

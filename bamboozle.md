@@ -11,7 +11,7 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Lo Mein with Chicken
 [Kyle] (https://github.com/kjswartz)                | 
-[Mark] (http://github.com/mark-smithtb)             | 
+[Mark] (http://github.com/mark-smithtb)             | Lo Mein with Chicken
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | 
 [Nate] (https://github.com/thunemn)                 | Lo Mein with Chicken

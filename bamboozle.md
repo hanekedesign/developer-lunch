@@ -7,7 +7,7 @@
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
-[Minho](https://github.com/minhochoi)               | Beef Banh Mi
+[Minho](https://github.com/minhochoi)               | 3 rolls - 2 grilled beef, 1 pork with all veggies (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Lo Mein with Chicken
 [Kyle] (https://github.com/kjswartz)                | 

@@ -16,5 +16,5 @@ Developer     | Order
 [Joe] (https://github.com/Montchat)                 | Lo Mein with Chicken
 [Nate] (https://github.com/thunemn)                 | Lo Mein with Chicken
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                                   
-[Greg] ()                                           | 
+[Greg] ()                                           | 2 grilled chicken rolls, carrots, onions & tomatoes, citrus vinaigrette
 [Kevin] ()                                          | 

@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 2 grilled beef, 1 pork with all veggies (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Lo Mein with Chicken
-[Kyle] (https://github.com/kjswartz)                | 
+[Kyle] (https://github.com/kjswartz)                | 3x rolls - 2x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Lo Mein with Chicken
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Lo Mein with Chicken

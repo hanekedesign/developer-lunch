@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 2 grilled beef, 1 pork with all veggies (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 3x citrus vinaigrette
-[Kyle] (https://github.com/kjswartz)                | Chicken Banh Mi w/Spicy Mayo
+[Kyle] (https://github.com/kjswartz)                | Wonton Soup - Pork Dumplings 
 [Mark] (http://github.com/mark-smithtb)             | 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)

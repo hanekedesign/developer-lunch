@@ -13,7 +13,7 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | Wonton Soup - Pork Dumplings 
 [Mark] (http://github.com/mark-smithtb)             | Wonton Soup - Pork Dumplings 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | Chicken Banh Mi (no jalepeño)
+[Joe] (https://github.com/Montchat)                 | 
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   |                                    
 [Greg] ()                                           | 2 grilled chicken rolls, carrots, onions & tomatoes, citrus vinaigrette

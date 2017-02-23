@@ -10,7 +10,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 3 rolls - 2 grilled beef, 1 pork with all veggies (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | 
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 3x citrus vinaigrette
-[Kyle] (https://github.com/kjswartz)                | Wonton Soup - Pork Dumplings 
+[Kyle] (https://github.com/kjswartz)                | Pumpkin Soup in a creamy coconut broth - chicken
 [Mark] (http://github.com/mark-smithtb)             | Wonton Soup - Pork Dumplings 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | 

@@ -6,7 +6,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
+[Daniel](https://github.com/dtartaglia)           	| 
 [Minho](https://github.com/minhochoi)               | 3 rolls - 2 grilled beef, 1 pork with all veggies (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | 
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 3x citrus vinaigrette

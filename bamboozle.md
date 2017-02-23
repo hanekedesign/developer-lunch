@@ -19,4 +19,4 @@ Developer     | Order
 [Greg] ()                                           | 
 [Kevin] ()                                          | 
 [Brooke] ()                                         | 
-[John] (https://github.com/sawyermerchant)          | Grilled chicken roll 
+[John] (https://github.com/sawyermerchant)          | 

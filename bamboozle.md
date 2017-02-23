@@ -16,7 +16,7 @@ Developer     | Order
 [Joe] (https://github.com/Montchat)                 | 
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   | Beef Banh Mi (no jalepeño)                                   
-[Greg] ()                                           | 2 grilled chicken rolls, carrots, onions & tomatoes, citrus vinaigrette
+[Greg] ()                                           | 
 [Kevin] ()                                          | 
 [Brooke] ()                                         | 
 [John] (https://github.com/sawyermerchant)          | Grilled chicken roll 

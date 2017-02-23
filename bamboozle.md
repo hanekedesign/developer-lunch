@@ -15,7 +15,7 @@ Developer     | Order
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
 [Joe] (https://github.com/Montchat)                 | Large Chicken & Rice Soup
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
-[Brad] (https://github.com/bself)                   | Beef Banh Mi (no jalepeño)                                   
+[Brad] (https://github.com/bself)                   | Wonton Soup - Pork Dumplings                                  
 [Greg] ()                                           | 
 [Kevin] ()                                          | 
 [Brooke] ()                                         | 

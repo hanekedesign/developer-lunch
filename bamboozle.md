@@ -11,12 +11,12 @@ Developer     | Order
 [Thomas](https://github.com/ThomasKomarnicki)       | 
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 3x citrus vinaigrette
 [Kyle] (https://github.com/kjswartz)                | Pumpkin Soup in a creamy coconut broth - chicken
-[Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/ spicy mayo
+[Mark] (http://github.com/mark-smithtb)             | Wonton Soup - Pork Dumplings 
 [Chris] (https://github.com/stomp1128)              | 3 rolls - grilled chicken. lettuce, carrots, mango, citrus vinaigrette
-[Joe] (https://github.com/Montchat)                 | 
+[Joe] (https://github.com/Montchat)                 | Large Chicken & Rice Soup
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   | Beef Banh Mi (no jalepeño)                                   
 [Greg] ()                                           | 
 [Kevin] ()                                          | 
 [Brooke] ()                                         | 
-[John] (https://github.com/sawyermerchant)          | 
+[John] (https://github.com/sawyermerchant)          | Grilled chicken roll 

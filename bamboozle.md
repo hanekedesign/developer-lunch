@@ -16,4 +16,4 @@ Developer     | Order
 [Joe] (https://github.com/Montchat)                 | Small Chicken & Rice Soup
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                       
-[Greg] ()                                           | 
+[Greg] ()                                           | 2x chicken rolls w/ onion + tomato + carrots

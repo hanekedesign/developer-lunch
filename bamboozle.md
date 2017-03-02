@@ -13,7 +13,7 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 
 [Mark] (http://github.com/mark-smithtb)             | Chicken Banh Mi w/ spicy mayo 
 [Chris] (https://github.com/stomp1128)              | 
-[Joe] (https://github.com/Montchat)                 | Large Chicken & Rice Soup
+[Joe] (https://github.com/Montchat)                 | Small Chicken & Rice Soup
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                       
 [Greg] ()                                           | 

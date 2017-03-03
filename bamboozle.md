@@ -2,6 +2,9 @@
 ###### 516 N Tampa St
 ###### Tampa, FL
 ###### (813) 223-7320
+
+[Menu](http://bamboozlecafe.com/bamboozle-cafe-lunch-menu/?target=_blank)
+
 [Send Email](mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https://github.com/hanekedesign/developer-lunch/blob/master/bamboozle.md)
 
 Developer     | Order

@@ -16,7 +16,7 @@ Developer     | Order
 [Kyle] (https://github.com/kjswartz)                | 3x rolls - 2x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
 [Mark] (http://github.com/mark-smithtb)             | Garlic Mussels sautéed with red bell peppers, garlic drizzled with a scallion infused oil served over a Noodle Salad (gf)
 [Chris] (https://github.com/stomp1128)              | 
-[Joe] (https://github.com/Montchat)                 | Small Chicken & Rice Soup
+[Joe] (https://github.com/Montchat)                 | Large Chicken & Rice Soup
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                       
 [Greg] ()                                           | 2x chicken rolls w/ onion + tomato + carrots

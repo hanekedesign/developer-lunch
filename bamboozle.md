@@ -20,4 +20,3 @@ Developer     | Order
 [Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                       
 [Greg] ()                                           | 2x chicken rolls w/ onion + tomato + carrots
-[Craig] (https://github.com/craigwheeler)           | Beef Bahn Mi

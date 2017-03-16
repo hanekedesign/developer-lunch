@@ -13,7 +13,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
-[Kyle] (https://github.com/kjswartz)                | 3x rolls - 2x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
+[Kyle] (https://github.com/kjswartz)                | Chicken Tacos Sautéed with lemongrass, red bell and onions
 [Mark] (http://github.com/mark-smithtb)             | Garlic Mussels sautéed with red bell peppers, garlic drizzled with a scallion infused oil served over a Noodle Salad (gf)
 [Chris] (https://github.com/stomp1128)              | 
 [Joe] (https://github.com/Montchat)                 | Large Chicken & Rice Soup

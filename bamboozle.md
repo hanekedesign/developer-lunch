@@ -3,7 +3,7 @@
 ###### Tampa, FL
 ###### (813) 223-7320
 
-<a href="http://bamboozlecafe.com/bamboozle-cafe-lunch-menu/" target="_blank">View Menu</a>
+[View Menu](http://bamboozlecafe.com/bamboozle-cafe-lunch-menu/)
 
 [Send Email](mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https://github.com/hanekedesign/developer-lunch/blob/master/bamboozle.md)
 
@@ -17,6 +17,6 @@ Developer     | Order
 [Mark] (http://github.com/mark-smithtb)             | Chicken Tacos Sautéed with lemongrass, red bell and onions 
 [Chris] (https://github.com/stomp1128)              | 
 [Joe] (https://github.com/Montchat)                 | Large Chicken & Rice Soup
-[Nate] (https://github.com/thunemn)                 | Chicken Banh Mi w/EXTRA EXTRA spicy mayo
+[Nate] (https://github.com/thunemn)                 | 
 [Brad] (https://github.com/bself)                   | Beef Banh Mi                       
-[Greg] ()                                           | 2x chicken rolls w/ onion + tomato + carrots
+[Greg] ()                                           | 

@@ -13,7 +13,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
-[Kyle](https://github.com/kjswartz)                 | Chicken Tacos Sautéed with lemongrass, red bell and onions
+[Kyle](https://github.com/kjswartz)                 | Pumpkin Soup - In a creamy coconut broth Topped with scallions and toasted coconut, served with Jasmine Rice 
 [Mark](http://github.com/mark-smithtb)              | Chicken Tacos Sautéed with lemongrass, red bell and onions 
 [Chris](https://github.com/stomp1128)               | Chicken Banh Mi, no mayo, no cucumbers
 [Joe](https://github.com/Montchat)                  | Large Chicken & Rice Soup

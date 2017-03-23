@@ -15,7 +15,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
 [Kyle](https://github.com/kjswartz)                 | Chicken Tacos Sautéed with lemongrass, red bell and onions
 [Mark](http://github.com/mark-smithtb)              | Chicken Tacos Sautéed with lemongrass, red bell and onions 
-[Chris](https://github.com/stomp1128)               | 
+[Chris](https://github.com/stomp1128)               | Chicken Banh Mi, no mayo, no cucumbers
 [Joe](https://github.com/Montchat)                  | Large Chicken & Rice Soup
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Beef Banh Mi                       

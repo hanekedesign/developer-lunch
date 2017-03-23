@@ -14,3 +14,4 @@ Developer     | Order
 [Chris] (https://github.com/stomp1128)              | 
 [Ayush] (https://github.com/ayushcshah)             | 
 [Joe] (https://github.com/Montchat)                 |  
+[Brad] (https://github.com/bself)                   | 2 slices of Ham & Pineapple Pizza

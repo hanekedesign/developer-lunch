@@ -5,8 +5,6 @@
 
 [View Menu](http://bamboozlecafe.com/bamboozle-cafe-lunch-menu/)
 
-[Send Email](mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md)
-
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
@@ -19,4 +17,6 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | Large Chicken & Rice Soup
 [Nate](https://github.com/thunemn)                  | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
 [Brad](https://github.com/bself)                    | Beef Banh Mi                       
-[Greg]()                                            | 
+
+
+[Send Email](mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md)

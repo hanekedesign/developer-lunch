@@ -13,7 +13,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
 [Kyle](https://github.com/kjswartz)                 | 3x rolls - 2x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
-[Chris](https://github.com/stomp1128)               | Chicken Banh Mi, no mayo, no cucumbers
+[Chris](https://github.com/stomp1128)               
 [Joe](https://github.com/Montchat)                  | Large Chicken & Rice Soup
 [Nate](https://github.com/thunemn)                  | Chicken Banh Mi w/EXTRA EXTRA Spicy Mayo
 [Brad](https://github.com/bself)                    | Beef Banh Mi                       

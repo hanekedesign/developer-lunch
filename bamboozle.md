@@ -14,7 +14,7 @@ Developer     | Order
 [Kyle](https://github.com/kjswartz)                 | 3x rolls - 2x pork. 1x Haas Avocado: lettuce, carrots, mango 3x peanute sauces
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Chris](https://github.com/stomp1128)               
-[Joe](https://github.com/Montchat)                  | Large Chicken & Rice Soup
+[Joe](https://github.com/Montchat)                  | Chicken Banh Mi (no jalepeño)
 [Nate](https://github.com/thunemn)                  | 3x rolls - 3x Ahi tuna: cucumber, red onions, carrots, jalepeno - w/spicy mayo on the side
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/ spicy mayo on the side                   
 

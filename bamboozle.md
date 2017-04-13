@@ -13,7 +13,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
-[Chris](https://github.com/stomp1128)               
+[Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi (no jalepeño)
 [Nate](https://github.com/thunemn)                  | 3x rolls - 3x Ahi tuna: cucumber, red onions, carrots, jalepeno - w/spicy mayo on the side
 [Brad](https://github.com/bself)                    | 

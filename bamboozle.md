@@ -16,8 +16,8 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi (no jalepeño)
-[Nate](https://github.com/thunemn)                  | Daily Special
-[Brad](https://github.com/bself)                    | Daily Special
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA spicy mayo
+[Brad](https://github.com/bself)                    | 
 
 <!-- [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce) -->
 

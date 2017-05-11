@@ -17,7 +17,7 @@ Developer     | Order
 [Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi (no jalepeño)
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA spicy mayo
-[Brad](https://github.com/bself)                    | Tropical Chicken Kabobs - Hoisin Glazed Pineapple and Ginger Infused Chicken Skewered with Red Bell and Onion served with Jasmine rice and a side salad
+[Brad](https://github.com/bself)                    | Small Chicken & Rice Soup and Beef Banh Mi w/Spicy Mayo
 
 <!-- [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce) -->
 

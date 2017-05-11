@@ -15,7 +15,7 @@ Developer     | Order
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and Chicken Banh Mi w/Spicy Mayo
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
-[Joe](https://github.com/Montchat)                  | Chicken Banh Mi (no jalepeño)
+[Joe](https://github.com/Montchat)                  | Seasonal Strawberry Avocado Salad With Jicama, Carrots, Cucumber and topped with roasted almonds (v) (gf)
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad](https://github.com/bself)                    | Small Chicken & Rice Soup and Beef Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)

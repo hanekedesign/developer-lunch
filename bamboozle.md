@@ -16,7 +16,7 @@ Developer     | Order
 [Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA spicy mayo
-[Brad](https://github.com/bself)                    | Small Chicken & Rice Soup and Beef Banh Mi w/Spicy Mayo
+[Brad](https://github.com/bself)                    | Lemongrass Chicken served with Jasmine rice and a side salad
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

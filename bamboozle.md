@@ -10,7 +10,6 @@
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
-[Thomas](https://github.com/ThomasKomarnicki)       | Chicken Banh Mi (no jalepeño)
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
@@ -18,6 +17,6 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | Daily Special
 [Brad](https://github.com/bself)                    | Shredded Beef sautéed with lemongrass, garlic, red bell and onions served with Jasmine rice and a side salad
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
-[Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x Haas Avocado roll: lettuce, carrots, mango 2x peanute sauces
+[Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x Haas Avocado roll: lettuce, carrots, mango 2x peanut sauces
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

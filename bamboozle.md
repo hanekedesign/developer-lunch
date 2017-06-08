@@ -14,7 +14,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Chris](https://github.com/stomp1128)               | 3 traditional Vietnamese rolls, no cucumber, citrus vinaigrette
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi
-[Nate](https://github.com/thunemn)                  | Daily Special
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA spicy mayo
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/Spicy Mayo
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x Haas Avocado roll: lettuce, carrots, mango 2x peanut sauces

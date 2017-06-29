@@ -10,7 +10,7 @@
 Developer     | Order
 --------------|---------------------
 [Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
-[Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 2 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
+[Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 3 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA spicy mayo

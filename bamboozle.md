@@ -14,7 +14,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi w/Spicy Mayo
 [Nate](https://github.com/thunemn)                  | Daily Special
-[Brad](https://github.com/bself)                    | Bamboozle Fried Brown Rice chicken, pork and beef with red bell peppers, onions& bean sprouts
+[Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 
 

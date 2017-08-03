@@ -9,11 +9,11 @@
 
 Developer     | Order
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| 
+[Daniel](https://github.com/dtartaglia)           	| Chicken Banh Mi w/Spicy Mayo
 [Jesse](https://github.com/jessecurry)              | Lo Mein with Chicken – side of citrus vinaigrette
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Joe](https://github.com/Montchat)                  | Chicken Banh Mi w/Spicy Mayo
-[Nate](https://github.com/thunemn)                  | Daily Special w/Beef
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA EXTRA Spicy Mayo
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x pork roll: lettuce, carrots, mango

@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 3 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/Spicy Mayo
 [Joe](https://github.com/Montchat)                  | 
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA Spicy Mayo on the side
+[Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/ Spicy Mayo on the side
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x pork roll: lettuce, carrots, mango

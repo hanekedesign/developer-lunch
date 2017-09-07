@@ -13,7 +13,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bself)                    | Beef Banh Mi w/ Spicy Mayo on the side
+[Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x pork roll: lettuce, carrots, mango
 

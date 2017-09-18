@@ -9,8 +9,8 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Small Chicken & Rice Soup and 3 grilled chicken rolls – jicama instead of noodles: cucumber, pickled daikon & carrots, red peppers, roasted shallots – 2x citrus vinaigrette
-[Mark](http://github.com/mark-smithtb)              | 
+[Jesse](https://github.com/jessecurry)              | Bamboozle Stirfry! 🥘
+[Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 

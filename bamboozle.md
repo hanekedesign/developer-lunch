@@ -13,7 +13,7 @@ Developer     | Order
 [Daneil](https://github.com/dtartaglia)             | Chicken Noodle Salad
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | 
-[Nate](https://github.com/thunemn)                  | 
+[Nate](https://github.com/thunemn)                  | Bamboozle Stirfry 
 [Brad](https://github.com/bself)                    | Bamboozle Stirfry 
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Bamboozle Stirfry

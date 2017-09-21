@@ -11,7 +11,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Bamboozle Stirfry! 🥘
 [Daneil](https://github.com/dtartaglia)             | Chicken Noodle Salad
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Bamboozle Stirfry
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Bamboozle Stirfry 
 [Brad](https://github.com/bself)                    | Bamboozle Stirfry 

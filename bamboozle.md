@@ -11,7 +11,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Shaking Beef Banh Mi and a small chicken & rice soup
 [Daniel](https://github.com/dtartaglia)             | Chicken Noodle Salad
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Shaking Beef Banh Mi
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Shaking Beef Banh Mi

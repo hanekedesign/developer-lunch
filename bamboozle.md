@@ -14,7 +14,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bself)                    | 
+[Brad](https://github.com/bself)                    | Shaking Beef Banh Mi
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | 
 

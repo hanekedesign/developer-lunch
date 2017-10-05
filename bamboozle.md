@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Pork Banh Mi and a small chicken & rice soup
 [Daniel](https://github.com/dtartaglia)             | Chicken Noodle Salad
 [Mark](http://github.com/mark-smithtb)              | Shaking Beef Banh Mi
-[Joe](https://github.com/Montchat)                  | 
+[Joe](https://github.com/Montchat)                  | Plain Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side and a small chicken & rice soup
 [Minho](https://github.com/minhochoi)               | Beef Pho and 2 grilled beef rolls (soy sauce)

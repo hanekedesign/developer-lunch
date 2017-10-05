@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Pork Banh Mi and a small chicken & rice soup
+[Jesse](https://github.com/jessecurry)              | Beef Banh Mi and a small chicken & rice soup
 [Daniel](https://github.com/dtartaglia)             | Chicken Noodle Salad
 [Mark](http://github.com/mark-smithtb)              | Shaking Beef Banh Mi
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad

@@ -14,7 +14,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Shaking Beef Banh Mi
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
-[Brad](https://github.com/bself)                    | Shaking Beef Banh Mi
+[Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side and a small chicken & rice soup
 [Minho](https://github.com/minhochoi)               | Large Chicken & Rice Soup and 1 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x pork roll: lettuce, carrots, mango
 

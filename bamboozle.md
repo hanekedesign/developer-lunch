@@ -10,7 +10,6 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Beef Banh Mi and a small chicken & rice soup
-[Daniel](https://github.com/dtartaglia)             | Chicken Noodle Salad
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side

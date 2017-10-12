@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry
+[Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry – 🎃 🍛
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side

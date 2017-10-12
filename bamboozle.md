@@ -15,7 +15,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side and a small chicken & rice soup
 [Minho](https://github.com/minhochoi)               | Beef Pho and 2 grilled beef rolls (soy sauce)
-[Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x pork roll: lettuce, carrots, mango
+[Kyle](https://github.com/kjswartz)                 | Pumpkin Yellow Curry (Regular Chicken) 🐓 🎃 🍛
 
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

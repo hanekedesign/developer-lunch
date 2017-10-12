@@ -10,7 +10,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry (Double Chicken) 🐓 🎃 🍛
-[Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side
+[Mark](http://github.com/mark-smithtb)              | Pumpkin Yellow Curry (Regular Chicken) 🐓 🎃 🍛
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side and a small chicken & rice soup

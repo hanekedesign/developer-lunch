@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Pumpkin Yellow Curry (Double Chicken) 🐓 🎃 🍛
 [Mark](http://github.com/mark-smithtb)              | Pumpkin Yellow Curry (Regular Chicken) 🐓 🎃 🍛
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
+[Nate](https://github.com/thunemn)                  | 2 Ahi Tuna Fresh Rolls w/jalapeno, carrots (soy sauce)
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side and a small chicken & rice soup
 [Minho](https://github.com/minhochoi)               | Beef Pho and 2 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Pumpkin Yellow Curry (Regular Chicken) 🐓 🎃 🍛

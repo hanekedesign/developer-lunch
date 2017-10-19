@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Pork Banh Mi and a small chicken & rice soup
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad
-[Nate](https://github.com/thunemn)                  | 2 Ahi Tuna Fresh Rolls w/jalapeno, carrots (soy sauce)
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side
 [Minho](https://github.com/minhochoi)               | Beef Pho and 2 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Small Chicken & Rice Soup and 2x pork roll: lettuce, carrots, mango

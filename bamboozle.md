@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Banh Mi Tacos a small chicken & rice soup
+[Jesse](https://github.com/jessecurry)              | 🥖🌮 Banh Mi Tacos & a small 🍲 chicken & rice soup
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/spicy mayo on the side
 [Joe](https://github.com/Montchat)                  | Plain Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side

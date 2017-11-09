@@ -14,7 +14,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side
 [Brad](https://github.com/bself)                    | Peanut Chicken & 1 chicken spring roll
-[Minho](https://github.com/minhochoi)               | Beef Pho and 2 grilled beef rolls (soy sauce)
+[Minho](https://github.com/minhochoi)               | Vegan Pho w/ Tofu and 2 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi w/spicy mayo
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich
 [Kevin]()                                           | Beef Pho and 1 grilled beef roll

@@ -13,7 +13,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side
-[Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side
+[Brad](https://github.com/bself)                    | Peanut Chicken & 1 chicken spring roll
 [Minho](https://github.com/minhochoi)               | Beef Pho and 2 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Soft Shell Crab in roll
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich

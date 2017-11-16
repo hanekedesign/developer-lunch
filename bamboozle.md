@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 🥩🥖🍲 Beef Banh Mi & a small chicken & rice soup
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side
 [Joe](https://github.com/Montchat)                  | Cafe Salad with Chicken
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side & 1 chicken spring roll
 [Minho](https://github.com/minhochoi)               | Vegan Pho w/ Tofu and 2 grilled beef rolls (soy sauce)
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi w/spicy mayo

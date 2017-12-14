@@ -15,7 +15,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side &  1 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | 
-[Kyle](https://github.com/kjswartz)                 | Beef Banh Mi & a small Pumpkin Soup
+[Kyle](https://github.com/kjswartz)                 | Beef Banh Mi
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich
 [Kevin]()                                           | 2 grilled beef rolls
 [Miguel](https://github.com/MiguelBrito1086)        |         

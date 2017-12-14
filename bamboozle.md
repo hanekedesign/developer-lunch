@@ -18,7 +18,7 @@ Developer     | Order
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi & a small Pumpkin Soup
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich
 [Kevin]()                                           | Beef Pho and 1 grilled beef roll
-[Miguel](https://github.com/MiguelBrito1086)        | Pumpkin soup & 2 grilled beef rolls (soy sauce)           
+[Miguel](https://github.com/MiguelBrito1086)        |         
 
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

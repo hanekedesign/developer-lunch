@@ -17,7 +17,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi & a small Pumpkin Soup
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich
-[Kevin]()                                           | Beef Pho and 1 grilled beef roll
+[Kevin]()                                           | 2 grilled beef rolls
 [Miguel](https://github.com/MiguelBrito1086)        |         
 
 

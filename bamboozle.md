@@ -9,12 +9,12 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | 🥩🥖🍲 Beef Banh Mi & a small chicken & rice soup
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side
 [Joe](https://github.com/Montchat)                  | Cafe Salad
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/EXTRA spicy mayo on the side
+[Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side &  1 chicken spring roll
-[Minho](https://github.com/minhochoi)               | Pork Banh Mi w/spicy mayo on the side and 1 grilled beef rolls (soy sauce)
+[Minho](https://github.com/minhochoi)               | 
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi & a small Pumpkin Soup
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich
 [Kevin]()                                           | Beef Pho and 1 grilled beef roll

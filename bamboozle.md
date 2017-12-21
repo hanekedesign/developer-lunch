@@ -11,7 +11,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | 🥩🥖🍲 Beef Banh Mi & a small chicken & rice soup
 [Mark](http://github.com/mark-smithtb)              | 
-[Joe](https://github.com/Montchat)                  | Cafe Salad
+[Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side &  1 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | 

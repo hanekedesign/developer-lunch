@@ -17,7 +17,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich
-[Kevin]()                                           | 2 grilled beef rolls
+[Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
 
 

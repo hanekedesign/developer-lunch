@@ -11,8 +11,8 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Wonton Soup with wonton pork dumplings & 1 Baked Chicken Springroll
 [Joe](https://github.com/Montchat)                  | Cafe Salad
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  4 Baked Chicken Springroll
-[Brad](https://github.com/bself)                    | Wonton Soup Special & 4 Baked Chicken Springroll
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  6 Baked Chicken Springroll
+[Brad](https://github.com/bself)                    | Wonton Soup Special & 2 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | Wonton Soup
 [Kyle](https://github.com/kjswartz)                 | Wonton Soup with wonton pork dumplings
 [Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad

@@ -15,7 +15,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Wonton Soup Special & 2 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | Wonton Soup
 [Kyle](https://github.com/kjswartz)                 | Wonton Soup with wonton pork dumplings
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              | 4 Baked Chicken Springroll

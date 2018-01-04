@@ -11,14 +11,14 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Wonton Soup with wonton pork dumplings & 1 Baked Chicken Springroll
 [Joe](https://github.com/Montchat)                  | Cafe Salad
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  2 Baked Chicken Springroll
-[Brad](https://github.com/bself)                    | Wonton Soup Special & 2 Baked Chicken Springroll
+[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  4 Baked Chicken Springroll
+[Brad](https://github.com/bself)                    | Wonton Soup Special & 4 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | Wonton Soup
 [Kyle](https://github.com/kjswartz)                 | Wonton Soup with wonton pork dumplings
 [Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)              | 4 Baked Chicken Springroll
+[Jesse](https://github.com/jessecurry)              | 
 
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

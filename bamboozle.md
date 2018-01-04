@@ -14,7 +14,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  2 Baked Chicken Springroll
 [Brad](https://github.com/bself)                    | Wonton Soup &  2 Baked Chicken Springroll
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Wonton Soup
 [Kyle](https://github.com/kjswartz)                 | Beef Banh Mi
 [Daniel](https://github.come/dtartaglia)            | 
 [Kevin]()                                           | 

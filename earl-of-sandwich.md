@@ -7,7 +7,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              |
+[Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado 
 [Joe](https://github.com/Montchat)                  |
 [Nate](https://github.com/thunemn)                  |
 [Brad](https://github.com/bself)                    |

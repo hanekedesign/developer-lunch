@@ -12,7 +12,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  |
 [Brad](https://github.com/bself)                    |
 [Minho](https://github.com/minhochoi)               |
-[Kyle](https://github.com/kjswartz)                 |
+[Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu
 [Kevin]()                                           |
 [Miguel](https://github.com/MiguelBrito1086)        |         

@@ -11,7 +11,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  |The Earl's French Dip
 [Nate](https://github.com/thunemn)                  |
 [Brad](https://github.com/bself)                    |
-[Minho](https://github.com/minhochoi)               |
+[Minho](https://github.com/minhochoi)               | The Earl's French Dip
 [Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu
 [Kevin]()                                           | Italian w/no Tomato

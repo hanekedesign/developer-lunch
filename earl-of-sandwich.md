@@ -10,7 +10,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado 
 [Joe](https://github.com/Montchat)                  |The Earl's French Dip
 [Nate](https://github.com/thunemn)                  |
-[Brad](https://github.com/bself)                    |
+[Brad](https://github.com/bself)                    | Chipotle Chicken Avocado on White Bread
 [Minho](https://github.com/minhochoi)               | The Earl's French Dip
 [Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu

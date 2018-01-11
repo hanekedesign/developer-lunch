@@ -14,7 +14,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               |
 [Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu
-[Kevin]()                                           | Italian no Tomato
+[Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              |
 

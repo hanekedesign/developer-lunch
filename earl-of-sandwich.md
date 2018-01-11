@@ -8,7 +8,7 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado 
-[Joe](https://github.com/Montchat)                  |
+[Joe](https://github.com/Montchat)                  |The Earl's French Dip
 [Nate](https://github.com/thunemn)                  |
 [Brad](https://github.com/bself)                    |
 [Minho](https://github.com/minhochoi)               |

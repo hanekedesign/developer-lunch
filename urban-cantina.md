@@ -18,5 +18,5 @@ Developer     | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito w/chicken
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)    
+[Jesse](https://github.com/jessecurry)    	        | Enchiladas Suizas
 

@@ -13,5 +13,5 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              | 
 [Chris](https://github.com/stomp1128)               | 
 [Ayush](https://github.com/ayushcshah)              | 
-[Joe](https://github.com/Montchat)                  |  Earl's French Dip + Baked Potato Chip
+[Joe](https://github.com/Montchat)                  |  
 [Brad](https://github.com/bself)                    | 

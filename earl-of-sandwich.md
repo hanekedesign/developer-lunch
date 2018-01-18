@@ -13,7 +13,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Chipotle Chicken Avocado on White Bread
 [Minho](https://github.com/minhochoi)               | The Earl's French Dip
 [Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss
-[Daniel](https://github.come/dtartaglia)            | The Full Montagu
+[Daniel](https://github.come/dtartaglia)            | The Earl’s Club on White
 [Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              |

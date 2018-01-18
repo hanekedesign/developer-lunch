@@ -15,7 +15,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  6 Baked Chicken Springroll
 [Brad](https://github.com/bself)                    | Wonton Soup Special & 2 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | Wonton Soup
-[Kyle](https://github.com/kjswartz)                 | Wonton Soup with wonton pork dumplings
+[Kyle](https://github.com/kjswartz)                 | Pumpkin Yellow Curry chicken
 [Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         

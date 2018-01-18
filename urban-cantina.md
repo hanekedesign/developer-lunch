@@ -15,7 +15,7 @@ Developer     | Order Preference
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
 [Kyle](https://github.com/kjswartz)                 | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Cantina Burrito w/chicken
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    

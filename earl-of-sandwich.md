@@ -11,7 +11,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  |The Earl's French Dip
 [Nate](https://github.com/thunemn)                  | the original 1762
 [Brad](https://github.com/bself)                    | Chipotle Chicken Avocado on White Bread
-[Minho](https://github.com/minhochoi)               | The Earl's French Dip
+[Minho](https://github.com/minhochoi)               | the original 1762
 [Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss
 [Daniel](https://github.come/dtartaglia)            | The Earl’s Club on White
 [Kevin]()                                           | Italian w/no Tomato

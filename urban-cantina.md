@@ -12,7 +12,7 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              |
 [Joe](https://github.com/Montchat)                  |
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
-[Brad](https://github.com/bself)                    | 
+[Brad](https://github.com/bself)                    | El Chango w/ chicken taco
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Kyle](https://github.com/kjswartz)                 | 
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito w/chicken

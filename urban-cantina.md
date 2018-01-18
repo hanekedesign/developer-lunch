@@ -13,7 +13,7 @@ Developer     | Order Preference
 [Joe](https://github.com/Montchat)                  |
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Kyle](https://github.com/kjswartz)                 | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Kevin]()                                           | 

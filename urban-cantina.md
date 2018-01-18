@@ -14,7 +14,7 @@ Developer     | Order Preference
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
 [Brad](https://github.com/bself)                    | El Chango w/ chicken taco
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
-[Kyle](https://github.com/kjswartz)                 | 
+[Kyle](https://github.com/kjswartz)                 | Cantina Burrito chicken 
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito w/chicken
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         

@@ -10,7 +10,7 @@
 Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga  
-[Joe](https://github.com/Montchat)                  |
+[Joe](https://github.com/Montchat)                  | Los Frijoles Taco: NO TORTILLA. NO CORN SALSA.
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
 [Brad](https://github.com/bself)                    | El Chango w/ chicken taco
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos

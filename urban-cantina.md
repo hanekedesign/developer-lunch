@@ -11,7 +11,7 @@ Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              |
 [Joe](https://github.com/Montchat)                  |
-[Nate](https://github.com/thunemn)                  | 
+[Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
 [Kyle](https://github.com/kjswartz)                 | 

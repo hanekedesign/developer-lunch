@@ -5,7 +5,7 @@
 
 Developer     | Order Preference
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| 
+[Daniel](https://github.com/dtartaglia)           	| Green Peppers & Mushrooms
 [Minho](https://github.com/minhochoi)               | 
 [Thomas](https://github.com/ThomasKomarnicki)       | 
 [Jesse](https://github.com/jessecurry)              | 

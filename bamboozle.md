@@ -16,7 +16,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Beef Banh Mi w/spicy mayo on the side &  1 Baked Chicken Springroll
 [Minho](https://github.com/minhochoi)               | Wonton Soup
 [Kyle](https://github.com/kjswartz)                 | 3x pork roll w/ lettuce, carrots, mango; 3x peanut sauces 
-[Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
+[Daniel](https://github.come/dtartaglia)            | chicken & rice soup
 [Kevin]()                                           | Beef Banh Mi w/spicy mayo on the side & 2 Baked Chicken Springroll
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Crystal](https://github.com/crystalrmcgowan)       | Mi - Egg Noodle Soup

@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 🥩🥖🍲 Beef Banh Mi & a small chicken & rice soup
+[Jesse](https://github.com/jessecurry)              | 🥩🥖🍲 Beef Banh Mi & a small beef pho
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 Baked Chicken Springroll
 [Joe](https://github.com/Montchat)                  | Cafe Salad
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  2 Baked Chicken Springroll
@@ -19,6 +19,5 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | chicken & rice soup
 [Kevin]()                                           | Beef Banh Mi w/spicy mayo on the side & 2 Baked Chicken Springroll
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Crystal](https://github.com/crystalrmcgowan)       | Mi - Egg Noodle Soup
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

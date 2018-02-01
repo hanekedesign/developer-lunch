@@ -10,7 +10,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | 🥩🥖🍲 Beef Banh Mi & a small beef pho
-[Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 Baked Chicken Springroll
+[Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  2 Baked Chicken Springroll
 [Brad](https://github.com/bself)                    | Nothing.

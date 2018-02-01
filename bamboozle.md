@@ -17,7 +17,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Pork Banh Mi w/ 2 spicy mayo on the side & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 2x pork roll w/ lettuce, carrots, mango; 2x peanut sauces 
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo (on the sandwich.)
-[Kevin]()                                           | Beef Banh Mi w/spicy mayo on the side & 2 Baked Chicken Springroll
+[Kevin]()                                           | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll
 [Miguel](https://github.com/MiguelBrito1086)        |         
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

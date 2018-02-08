@@ -14,7 +14,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  2 Baked Chicken Springroll
 [Brad](https://github.com/bself)                    | Nothing.
-[Minho](https://github.com/minhochoi)               | Pork Banh Mi w/ 2 spicy mayo on the side & 2 veggie Springroll
+[Minho](https://github.com/minhochoi)               | Pork Banh Mi w/spicy mayo on the side (2 mayo) & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo (on the sandwich.)
 [Kevin]()                                           | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll

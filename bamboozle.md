@@ -14,7 +14,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 6 Spring rolls
 [Brad](https://github.com/bself)                    | Nothing.
-[Minho](https://github.com/minhochoi)               | Pork Banh Mi w/spicy mayo on the side (2 mayo) & 2 veggie Springroll
+[Minho](https://github.com/minhochoi)               | Coconut Chicken & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo (on the sandwich.) 1 Springroll
 [Kevin]()                                           | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll

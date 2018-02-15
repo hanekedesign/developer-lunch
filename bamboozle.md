@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 4 grilled chicken rolls, jicama instead of noodles. Cucumber, onion, red peppers, roasted shallots - soy vinaigrette on side
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
-[Nate](https://github.com/thunemn)                  | Beef Banh Mi w/spicy mayo on the side &  2 Baked Chicken Springroll
+[Nate](https://github.com/thunemn)                  | 6 Spring rolls
 [Brad](https://github.com/bself)                    | Nothing.
 [Minho](https://github.com/minhochoi)               | Pork Banh Mi w/spicy mayo on the side (2 mayo) & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 

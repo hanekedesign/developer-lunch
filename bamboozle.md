@@ -13,17 +13,10 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
-<<<<<<< Updated upstream
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | Coconut Chicken & 2 veggie Springroll
+[Minho](https://github.com/minhochoi)               | Bamboozle Stirfry & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 2 veggie Springroll
 [Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
-=======
-[Brad](https://github.com/bself)                    | Nothing.
-[Minho](https://github.com/minhochoi)               | Bamboozle Stirfry & 2 veggie Springroll
-[Kyle](https://github.com/kjswartz)                 | 
-[Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo (on the sandwich.) 1 Springroll
->>>>>>> Stashed changes
 [Kevin]()                                           | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll
 [Miguel](https://github.com/MiguelBrito1086)        | 
 

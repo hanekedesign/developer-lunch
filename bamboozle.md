@@ -14,7 +14,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | Bamboozle Stirfry & 2 veggie Springroll
+[Minho](https://github.com/minhochoi)               | Pork Banh Mi w/spicy 2 mayo on the side & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 
 [Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
 [Kevin]()                                           | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll

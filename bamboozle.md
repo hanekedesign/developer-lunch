@@ -16,7 +16,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Pork Banh Mi w/spicy 2 mayo on the side & 2 veggie Springroll
 [Kyle](https://github.com/kjswartz)                 | 
-[Daniel](https://github.come/dtartaglia)            | Chicken Noodle Salad
+[Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll
 [Kevin]()                                           | Chicken Banh Mi w/spicy mayo on the side & 2 Veggie Springroll
 [Miguel](https://github.com/MiguelBrito1086)        | 
 

@@ -17,6 +17,7 @@ Developer     | Order
 [Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              |
+[Michael L.]                                        | Chicken Caesar Wrap
 
 
 Order at: https://order.earlofsandwichusa.com

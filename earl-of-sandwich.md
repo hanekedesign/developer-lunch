@@ -7,7 +7,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado 
+[Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado
 [Joe](https://github.com/Montchat)                  |The Earl's French Dip
 [Nate](https://github.com/thunemn)                  | the original 1762
 [Brad](https://github.com/bself)                    | Chipotle Chicken Avocado on White Bread
@@ -18,6 +18,8 @@ Developer     | Order
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              |
 [Michael L.]                                        | Chicken Caesar Wrap
+[Julius](https://github.come/jbzozowski)            |
+Chicken Bacon Avocado Wrap
 
 
 Order at: https://order.earlofsandwichusa.com

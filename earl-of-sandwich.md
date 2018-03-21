@@ -18,7 +18,7 @@ Developer     | Order
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              |
 [Michael L.]                                        | Chicken Caesar Wrap
-[Julius](https://github.come/jbzozowski)            |
+[Julius](https://github.com/jbzozowski)            |
 Chicken Bacon Avocado Wrap
 
 

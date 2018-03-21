@@ -13,7 +13,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Chipotle Chicken Avocado on White Bread
 [Minho](https://github.com/minhochoi)               | the original 1762
 [Kyle](https://github.com/kjswartz)                 | Ham ‘N’ Swiss double meat
-[Daniel](https://github.come/dtartaglia)            | The Earl’s Club on White
+[Daniel](https://github.come/dtartaglia)            | The original 1762 on White
 [Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              |

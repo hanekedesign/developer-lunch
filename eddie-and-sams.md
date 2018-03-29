@@ -13,3 +13,5 @@ Developer     | Order Preference
 [Joe](https://github.com/Montchat)                  |  
 [Brad](https://github.com/bself)                    | 
 [Nathan]                                            |
+Kevin                                               | No anchovies
+Michael                                             | No mushrooms

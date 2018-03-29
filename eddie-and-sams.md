@@ -11,7 +11,7 @@ Developer     | Order Preference
 [Jesse](https://github.com/jessecurry)              | 
 [Mark](http://github.com/mark-smithtb)              | Supreme (not picky though)
 [Joe](https://github.com/Montchat)                  |  
-[Brad](https://github.com/bself)                    | 
+[Brad](https://github.com/bself)                    | No Onion
 [Nathan]                                            |
 Kevin                                               | No anchovies
 Michael                                             | No mushrooms

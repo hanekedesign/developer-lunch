@@ -14,7 +14,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Nothing. 
-[Minho](https://github.com/minhochoi)               | Peanut Chicken & 2 veggie Springroll
+[Minho](https://github.com/minhochoi)               | Pork Banh Mi 2 w/spicy mayo on the side & 2 veggie Springroll
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich & 2 Veggie Springroll
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 

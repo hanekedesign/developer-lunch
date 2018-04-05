@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 4 grilled chicken rolls, jicama instead of noodles. Cucumber, onion, red peppers, roasted shallots - citrus vinaigrette on side
+[Jesse](https://github.com/jessecurry)              | Pumpkin Soup (with Chicken) 🎃🥣🍗
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 

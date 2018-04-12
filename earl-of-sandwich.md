@@ -10,7 +10,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | the original 1762
-[Brad](https://github.com/bself)                    | Chipotle Chicken Avocado on White Bread
+[Brad](https://github.com/bself)                    | Holiday Turkey
 [Minho](https://github.com/minhochoi)               | the original 1762
 [Daniel](https://github.come/dtartaglia)            | The original 1762 on White
 [Kevin]()                                           | Italian w/no Tomato

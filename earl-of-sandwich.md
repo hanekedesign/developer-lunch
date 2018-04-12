@@ -7,7 +7,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              |Chipotle Chicken Avocado
+[Mark](http://github.com/mark-smithtb)              | Chipotle Chicken Avocado on Wheat
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | the original 1762
 [Brad](https://github.com/bself)                    | Holiday Turkey

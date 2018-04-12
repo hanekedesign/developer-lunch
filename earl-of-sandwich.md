@@ -18,7 +18,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Italian, no tomato, double meat
 [Michael L.]()                                      | Chicken Caesar Wrap
 [Julius](https://github.com/jbzozowski)             | Chicken Bacon Avocado Wrap
-[Colin] (https://github.com/colinfendrick)          | Caprese
+[Colin](https://github.com/ColinFendrick)           | Caprese
 
 
 Order at: https://order.earlofsandwichusa.com

@@ -14,7 +14,7 @@ Developer     | Order Preference
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Cantina Burrito w/chicken
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Enchiladas Suizas

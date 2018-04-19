@@ -20,4 +20,5 @@ Developer     | Order Preference
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Enchiladas Suizas
 [Michael]()                                         | Chicken Quesadilla
+[Colin](https://github.com/ColinFendrick)           | Los Frijoles Tacos
 

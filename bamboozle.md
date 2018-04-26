@@ -10,7 +10,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Bamboozle Stir Fry and small chicken & rice soup
-[Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 veggie Springroll
+[Mark](http://github.com/mark-smithtb)              | Bamboozle Stir Fry & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Bamboozle Stir Fry w/2 springrolls
 [Brad](https://github.com/bself)                    | Bamboozle Stir Fry w/ 1 springroll

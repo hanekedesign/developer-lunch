@@ -16,7 +16,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Bamboozle Stir Fry w/ 1 springroll
 [Minho](https://github.com/minhochoi)               | Pork Banh Mi 2 w/spicy mayo on the side & 2 veggie Springroll
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich & 2 Veggie Springroll
-[Kevin]()                                           | 
+[Kevin]()                                           | Small chicken rice soup
 [Miguel](https://github.com/MiguelBrito1086)        | 
 [Colin](https://github.com/ColinFendrick)           | Tofu Noodle Salad
 [Michael]()                                         | Beef Pho soup

@@ -13,7 +13,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Beef Banh Mi w/spicy mayo on the side & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bself)                    | Nothing. 
+[Brad](https://github.com/bself)                    | Bamboozle Stir Fry
 [Minho](https://github.com/minhochoi)               | Pork Banh Mi 2 w/spicy mayo on the side & 2 veggie Springroll
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo on the sandwich & 2 Veggie Springroll
 [Kevin]()                                           | 

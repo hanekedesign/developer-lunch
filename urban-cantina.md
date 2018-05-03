@@ -17,7 +17,7 @@ Developer     | Order Preference
 [Daniel](https://github.come/dtartaglia)            | 2 Tinga Tacos a la carte
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)    	        | Carne Asada
+[Jesse](https://github.com/jessecurry)    	        | Carne Asada - Main Event
 [Michael]()                                         | Chicken Quesadilla
 [Colin](https://github.com/ColinFendrick)           | Los Frijoles Tacos
 

@@ -19,4 +19,4 @@ Developer     | Order Preference
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
 [Michael]()                                         | 
-[Colin](https://github.com/ColinFendrick)           | 
+[Colin](https://github.com/ColinFendrick)           | Tofu Panang Curry

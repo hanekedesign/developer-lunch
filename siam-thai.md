@@ -12,7 +12,7 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Pineapple Fried Rice
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | PAD LA NA w/duck - wonton soup
-[Brad](https://github.com/bself)                    | 
+[Brad](https://github.com/bradreed)                    | Pineapple Fried Rice
 [Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Medium
 [Kevin]()                                           | 

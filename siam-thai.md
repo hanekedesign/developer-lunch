@@ -9,7 +9,7 @@
 
 Developer     | Order Preference
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Pineapple Fried Rice
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | PAD LA NA w/duck - wonton soup
 [Brad](https://github.com/bself)                    | 

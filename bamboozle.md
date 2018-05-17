@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 4 grilled chicken rolls, jicama instead of noodles. Cucumber, onion, red peppers, roasted shallots - citrus vinaigrette on side
+[Jesse](https://github.com/jessecurry)              | 3 grilled chicken rolls, jicama instead of noodles. Cucumber, onion, red peppers, roasted shallots - citrus vinaigrette on side and small chicken & rice soup
 [Mark](http://github.com/mark-smithtb)              | Bamboozle Stir Fry & 2 veggie Springroll
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Bamboozle Stir Fry w/2 springrolls

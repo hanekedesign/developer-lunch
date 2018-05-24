@@ -12,7 +12,7 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga  
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
-[Brad](https://github.com/bself)                    | El Chango
+[Brad](https://github.com/bself)                    | El Chango w/ no onions
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | 2 Tinga Tacos a la carte
 [Kevin]()                                           | Chicken Quesadilla

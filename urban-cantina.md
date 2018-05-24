@@ -17,7 +17,7 @@ Developer     | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Enchiladas Suizas in salsa roja
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)    	        | Carne Asada - Main Event
+[Jesse](https://github.com/jessecurry)    	        | El Santo Salad, no tomatoes, double chicken
 [Monica]()                                          | 
-[Colin](https://github.com/ColinFendrick)           | Los Frijoles Tacos
+[Colin](https://github.com/ColinFendrick)           | 
 

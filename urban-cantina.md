@@ -10,7 +10,7 @@
 Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga  
-[Joe](https://github.com/Montchat)                  | 
+[Joe](https://github.com/Montchat)                  | 2 Taco Lunch Special: 2 Los Friojles Tacos w/ no shell. no cheese.
 [Nate](https://github.com/thunemn)                  | Cantina Burrito w/chicken
 [Brad](https://github.com/bself)                    | El Chango w/ no onions
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos

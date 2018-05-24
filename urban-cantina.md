@@ -18,6 +18,6 @@ Developer     | Order Preference
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | El Santo Salad, no tomatoes, double chicken
-[Monica]()                                          | 
+[Monica]()                                          | Veggie Burrito
 [Colin](https://github.com/ColinFendrick)           | 
 

@@ -18,6 +18,6 @@ Developer     | Order Preference
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Carne Asada - Main Event
-[Michael]()                                         | Chicken Quesadilla
+[Monica]()                                          | 
 [Colin](https://github.com/ColinFendrick)           | Los Frijoles Tacos
 

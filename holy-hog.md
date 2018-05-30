@@ -12,7 +12,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | 
 [Mark](http://github.com/mark-smithtb)              | 
-[Joe](https://github.com/Montchat)                  | 
+[Joe](https://github.com/Montchat)                  | COBB SALAD w/ Pulled Pork on Side. No Cheese, Eggs, Corn or dressing.
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Sweet Corn Fritters and an iced tea
 [Minho](https://github.com/minhochoi)               | Lunchbox special with Pulled Pork, Loaded Potato Salad and an iced tea

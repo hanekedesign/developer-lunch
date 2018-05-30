@@ -19,4 +19,4 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Lunch Box Special (Pulled Pork, Cowboy Baked Beans, Coke)
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 
-[Colin](https://github.com/ColinFendrick)           | 
+[Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra

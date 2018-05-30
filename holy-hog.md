@@ -20,3 +20,4 @@ Developer     | Order
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 
 [Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra
+[Lucas]()                                           | Lunchbox special with Pulled Pork, Loaded Potato Salad and an a coke

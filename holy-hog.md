@@ -15,7 +15,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Sweet Corn Fritters and an iced tea
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Lunchbox special with Pulled Pork, Loaded Potato Salad and an iced tea
 [Daniel](https://github.come/dtartaglia)            | 
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 

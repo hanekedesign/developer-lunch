@@ -11,7 +11,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | 
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | COBB SALAD w/ Smoked Chicken and Ranch
 [Joe](https://github.com/Montchat)                  | COBB SALAD w/ Pulled Pork on Side. No Cheese, Eggs, Corn or dressing.
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Sweet Corn Fritters and an iced tea

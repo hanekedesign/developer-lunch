@@ -10,7 +10,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | Brisket Plater w/ collards & corn fritters; Add smoked chicken
 [Mark](http://github.com/mark-smithtb)              | COBB SALAD w/ Smoked Chicken and Ranch
 [Joe](https://github.com/Montchat)                  | COBB SALAD w/ Pulled Pork on Side. No Cheese, Eggs, Corn or dressing.
 [Nate](https://github.com/thunemn)                  | 

@@ -1,12 +1,14 @@
 
 ## Holy Hog
-###### 302 E. Kennedy Blvd.
-###### Tampa, FL
-###### 813-223-4HOG
 
-[View Menu](http://www.holyhogbbq.com/southern-bbq/)
+```
+302 E. Kennedy Blvd.
+Tampa, FL
+813-223-4HOG
+```
 
-[Lunch Box Special](http://www.holyhogbbq.com/bbq-lunch-box-special/)
+* [View Menu](http://www.holyhogbbq.com/southern-bbq/)
+* [Lunch Box Special](http://www.holyhogbbq.com/bbq-lunch-box-special/)
 
 Developer     | Order
 --------------|---------------------

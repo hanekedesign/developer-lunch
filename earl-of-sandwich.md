@@ -11,7 +11,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | the original 1762
 [Brad](https://github.com/bself)                    | Holiday Turkey
-[Minho](https://github.com/minhochoi)               | the original 1762
+[Minho](https://github.com/minhochoi)               | Hawaiian BBQ
 [Daniel](https://github.come/dtartaglia)            | All American on White
 [Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         

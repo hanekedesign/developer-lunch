@@ -12,7 +12,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | the original 1762
 [Brad](https://github.com/bself)                    | Holiday Turkey
 [Minho](https://github.com/minhochoi)               | the original 1762
-[Daniel](https://github.come/dtartaglia)            | All American on White
+[Daniel](https://github.come/dtartaglia)            | The Full Montagu on white
 [Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              | Italian, no tomato, double meat

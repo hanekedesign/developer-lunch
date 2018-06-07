@@ -18,7 +18,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 
 [Michael L.]()                                      | 
 [Julius](https://github.com/jbzozowski)             | 
-[Colin](https://github.com/ColinFendrick)           | Caprese
+[Colin](https://github.com/ColinFendrick)           | Caprese on wheat
 
 
 Order at: https://order.earlofsandwichusa.com

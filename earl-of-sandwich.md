@@ -13,7 +13,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Chipotle Chicken Avocado
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu on white
-[Kevin]()                                           | Italian w/no Tomato
+[Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)              | 
 [Michael L.]()                                      | 

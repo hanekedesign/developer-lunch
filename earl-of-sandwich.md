@@ -10,7 +10,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Chipotle Chicken Avocado on Wheat
 [Joe](https://github.com/Montchat)                  | House Salad
 [Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bself)                    | Holiday Turkey
+[Brad](https://github.com/bself)                    | Chipotle Chicken Avocado
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu on white
 [Kevin]()                                           | Italian w/no Tomato

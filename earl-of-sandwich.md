@@ -8,7 +8,7 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chipotle Chicken Avocado on Wheat
-[Joe](https://github.com/Montchat)                  | 
+[Joe](https://github.com/Montchat)                  | House Salad
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Holiday Turkey
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white

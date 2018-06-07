@@ -9,15 +9,15 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chipotle Chicken Avocado on Wheat
 [Joe](https://github.com/Montchat)                  | 
-[Nate](https://github.com/thunemn)                  | the original 1762
+[Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Holiday Turkey
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu on white
 [Kevin]()                                           | Italian w/no Tomato
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)              | Italian, no tomato, double meat
-[Michael L.]()                                      | Chicken Caesar Wrap
-[Julius](https://github.com/jbzozowski)             | Chicken Bacon Avocado Wrap
+[Jesse](https://github.com/jessecurry)              | 
+[Michael L.]()                                      | 
+[Julius](https://github.com/jbzozowski)             | 
 [Colin](https://github.com/ColinFendrick)           | Caprese
 
 

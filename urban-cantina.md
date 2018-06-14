@@ -14,7 +14,7 @@ Developer     | Order Preference
 [Nate](https://github.com/thunemn)                  | Enchiladas Suizas in salsa verde
 [Brad](https://github.com/bself)                    | El Chango w/ no onions and no sour cream
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
-[Daniel](https://github.come/dtartaglia)            | Enchiladas Suizas in salsa roja
+[Daniel](https://github.come/dtartaglia)            | Chile Relleno
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | El Santo Salad, no tomatoes, double chicken

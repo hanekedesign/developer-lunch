@@ -19,5 +19,5 @@ Developer     | Order Preference
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | El Rey *Super Fancy*
 [Monica]()                                          | 
-[Colin](https://github.com/ColinFendrick)           | 
+[Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
 

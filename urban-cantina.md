@@ -9,9 +9,9 @@
 
 Developer     | Order Preference
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga  
+[Mark](http://github.com/mark-smithtb)              |  
 [Joe](https://github.com/Montchat)                  | 2 Taco Lunch Special: 2 Los Frijoles Tacos w/ no shell. No Cheese.
-[Nate](https://github.com/thunemn)                  | Enchiladas Suizas in salsa verde
+[Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | El Chango w/ no onions and no sour cream
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | Chile Relleno

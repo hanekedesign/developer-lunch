@@ -17,7 +17,7 @@ Developer     | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Chile Relleno
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)    	        | El Santo Salad, no tomatoes, double chicken
+[Jesse](https://github.com/jessecurry)    	        | El Rey *Super Fancy*
 [Monica]()                                          | Veggie Burrito
 [Colin](https://github.com/ColinFendrick)           | 
 

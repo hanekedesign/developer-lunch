@@ -18,6 +18,6 @@ Developer     | Order Preference
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | El Rey *Super Fancy*
-[Monica]()                                          | Veggie Burrito
+[Monica]()                                          | 
 [Colin](https://github.com/ColinFendrick)           | 
 

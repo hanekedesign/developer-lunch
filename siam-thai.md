@@ -20,3 +20,4 @@ Developer     | Order Preference
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
 [Michael]()                                         | 
 [Colin](https://github.com/ColinFendrick)           | Tofu Panang Curry
+[Monica](https://github.com/MonicaUlloa)            | Garlic & Black pepper chicken

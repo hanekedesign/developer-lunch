@@ -18,6 +18,6 @@ Developer     | Order Preference
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
-[Michael]()                                         | 
+[Michael]()                                         | PAD THAI NOODLE w/ Chicken
 [Colin](https://github.com/ColinFendrick)           | Tofu Panang Curry
 [Monica](https://github.com/MonicaUlloa)            | Garlic & Black pepper chicken

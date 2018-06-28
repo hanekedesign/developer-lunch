@@ -6,7 +6,7 @@ https://eddieandsamsnewyorkpizza.patronpath.com/menu
 
 Developer     | Order Preference
 --------------|---------------------
-[Daniel](https://github.com/dtartaglia)           	| Green Peppers & Mushrooms
+[Daniel](https://github.com/dtartaglia)           	| No anchovies
 [Minho](https://github.com/minhochoi)               | 
 [Jesse](https://github.com/jessecurry)              | 
 [Mark](http://github.com/mark-smithtb)              | Supreme (not picky though)

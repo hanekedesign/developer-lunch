@@ -15,3 +15,4 @@ Developer     | Order Preference
 [Nathan]                                            |
 Kevin                                               | No anchovies
 Colin                                               | No meat
+Monica                                              | Banana peppers

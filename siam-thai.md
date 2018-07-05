@@ -12,7 +12,7 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Pineapple Fried Rice
 [Joe](https://github.com/Montchat)                  | Chicken Fried Rice
 [Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bradreed)                 | Pineapple Fried Rice - no onions if possible
+[Brad](https://github.com/bradreed)                 | Pineapple Fried Rice - no onions if possible + 1 spring roll
 [Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Medium
 [Kevin]()                                           | Nothing/no order

@@ -15,9 +15,8 @@ Developer     | Order Preference
 [Brad](https://github.com/bradreed)                 | Pineapple Fried Rice - no onions if possible + 1 spring roll
 [Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Medium
-[Kevin]()                                           | Nothing/no order
+[Kevin]()                                           | Chicken Pad Thai
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
-[Michael]()                                         | Pad Thai with Chicken
 [Colin](https://github.com/ColinFendrick)           | Tofu Panang Curry - Hot
 [Monica](https://github.com/MonicaUlloa)            | Garlic & Black pepper chicken

@@ -14,7 +14,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate w/ collards & baked beans; Add smoked chicken
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ Fried Okra & corn fritters
-[Joe](https://github.com/Montchat)                  | COBB SALAD w/ Pulled Pork on Side. No Cheese, Eggs, Corn or dressing.
+[Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | Lunchbox special with Smoked Chicken, Cowboy Baked Beans and an iced tea
 [Minho](https://github.com/minhochoi)               | Lunchbox special with Pulled Pork, Loaded Potato Salad and an iced tea

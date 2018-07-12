@@ -22,4 +22,4 @@ Developer     | Order
 [Kevin]()                                           | Lunch Box Special (Brisket, Green Beans & Ham, iced tea).
 [Miguel](https://github.com/MiguelBrito1086)        | 
 [Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra
-[Monica]()                                          | COBB SALAD w/ Smoked Chicken and Ranch
+[Monica]()                                          | the southerner

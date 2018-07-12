@@ -12,7 +12,7 @@ Tampa, FL
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Brisket Plate w/ collards & sweet potato casserole; Add smoked chicken
+[Jesse](https://github.com/jessecurry)              | Brisket Plate w/ collards & baked beans; Add smoked chicken
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ Fried Okra & corn fritters
 [Joe](https://github.com/Montchat)                  | COBB SALAD w/ Pulled Pork on Side. No Cheese, Eggs, Corn or dressing.
 [Nate](https://github.com/thunemn)                  | 

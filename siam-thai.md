@@ -18,5 +18,4 @@ Developer     | Order Preference
 [Kevin]()                                           | Chicken Pad Thai
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
-[Colin](https://github.com/ColinFendrick)           | Tofu Panang Curry - Hot
 [Monica](https://github.com/MonicaUlloa)            | Sweet & Sour chicken

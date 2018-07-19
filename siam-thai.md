@@ -19,3 +19,4 @@ Developer     | Order Preference
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
 [Monica](https://github.com/MonicaUlloa)            | Pad Thai chicken
+Mark Schneider                                      | Amazing Chicken, mild

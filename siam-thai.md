@@ -18,4 +18,4 @@ Developer     | Order Preference
 [Kevin]()                                           | Chicken Pad Thai
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | Chicken Red Curry - Medium
-[Monica](https://github.com/MonicaUlloa)            | Sweet & Sour chicken
+[Monica](https://github.com/MonicaUlloa)            | Pad Thai chicken

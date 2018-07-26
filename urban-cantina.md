@@ -11,8 +11,8 @@ Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              |  
 [Joe](https://github.com/Montchat)                  | 2 Taco Lunch Special: 2 Los Frijoles Tacos w/ no shell. No Cheese.
-[Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bself)                    | El Chango w/ no onions and no sour cream
+[Nate](https://github.com/thunemn)                  | Pollo Loco Tacos - 2 churros
+[Brad](https://github.com/bself)                    | El Chango w/ no onions and no sour cream and a churro
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | Chile Relleno
 [Kevin]()                                           | Chicken Quesadilla
@@ -21,4 +21,4 @@ Developer     | Order Preference
 [Monica]()                                          | Chicken Quesadilla
 [Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
 [Brendan] (https://github.com/brendanxmac)          | Al Pastor Tacos
-
+[Marah]                                             | Chicken Quesadilla

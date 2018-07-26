@@ -14,10 +14,11 @@ Developer     | Order Preference
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | El Chango w/ no onions and no sour cream
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
-[Daniel](https://github.come/dtartaglia)            | Crunchy Tinga Tacos
+[Daniel](https://github.come/dtartaglia)            | Chile Relleno
 [Kevin]()                                           | Chicken Quesadilla
 [Miguel](https://github.com/MiguelBrito1086)        |         
 [Jesse](https://github.com/jessecurry)    	        | El Rey *Super Fancy*
 [Monica]()                                          | Chicken Quesadilla
 [Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
-[Marah].                                            | Chicken Quesadilla
+[Brendan] (https://github.com/brendanxmac)          | Al Pastor Tacos
+

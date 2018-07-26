@@ -23,3 +23,4 @@ Developer     | Order Preference
 [Brendan] (https://github.com/brendanxmac)          | Al Pastor Tacos
 [Marah]                                             | Chicken Quesadilla
 [Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
+[Lucas]                                             | Chicken Quesadilla

@@ -21,3 +21,4 @@ Developer     | Order Preference
 [Monica](https://github.com/MonicaUlloa)            | Pad Thai chicken
 Mark Schneider                                      | Amazing Chicken, mild
 Julius                                              | Pad La Na - Pork - Medium
+Brendan                                             | Chicken Eggplant Basil Stir Fry

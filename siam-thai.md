@@ -22,3 +22,4 @@ Developer     | Order Preference
 Mark Schneider                                      | Amazing Chicken, mild
 Julius                                              | Pad La Na - Pork - Medium
 Brendan                                             | Chicken Eggplant Basil Stir Fry
+Lucas                                               | Chicken Fried Rice

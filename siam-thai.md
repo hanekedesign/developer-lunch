@@ -11,7 +11,7 @@ Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Pineapple Fried Rice
 [Joe](https://github.com/Montchat)                  | Chicken Fried Rice
-[Nate](https://github.com/thunemn)                  | Chicken Pad La Na - Medium. + 1 crab rangoon
+[Nate](https://github.com/thunemn)                  | Chicken Pad Drunken Noodle - Medium. + 1 crab rangoon
 [Brad](https://github.com/bradreed)                 | Chicken Pineapple Fried Rice - no onions if possible + 1 spring roll
 [Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Thai Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Medium

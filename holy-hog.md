@@ -17,7 +17,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Brisket Plate w/ baked beans & corn fritters
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Cowboy Baked Beans and an iced tea
-[Minho](https://github.com/minhochoi)               | Lunchbox special with Pulled Pork, Loaded Potato Salad and an iced tea
+[Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 

@@ -25,3 +25,4 @@ Developer     | Order
 Brendan                                             | HOG & HEIFER w/ sweet corn fritters 
 Julius                                              | Lunchbox special with Brisket, Jalapeno Mac n Cheese, Iced Tea
 Scott                                               | Southerner w/ mac n cheese 
+Lucas                                               | HOG & HEIFER w/ sweet corn fritters

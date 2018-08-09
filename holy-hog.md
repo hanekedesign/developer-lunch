@@ -19,7 +19,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Cowboy Baked Beans and an iced tea
 [Minho](https://github.com/minhochoi)               | Lunchbox special with Pulled Pork, Loaded Potato Salad and an iced tea
 [Daniel](https://github.come/dtartaglia)            | Lunch Box Special (Pulled Pork, Cowboy Baked Beans, Coke)
-[Kevin]()                                           | Lunch Box Special (Brisket, Green Beans & Ham, iced tea).
+[Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 
 [Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra
 [Monica]()                                          | the southerner with french fries

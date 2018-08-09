@@ -21,7 +21,6 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 
-[Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra
 [Monica]()                                          | Smoked Chicken w/ signature slaw and french fries
 Brendan                                             | HOG & HEIFER w/ sweet corn fritters 
 Julius                                              | Lunchbox special with Brisket, Jalapeno Mac n Cheese, Iced Tea

@@ -7,7 +7,7 @@ Tampa, FL
 813-223-4HOG
 ```
 
-* [View Menu](http://www.holyhogbbq.com/southern-bbq/)
+* [View Menu](https://www.holyhogbbq.com/menu/)
 * [Lunch Box Special](http://www.holyhogbbq.com/bbq-lunch-box-special/)
 
 Developer     | Order

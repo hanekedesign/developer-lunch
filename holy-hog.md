@@ -22,4 +22,4 @@ Developer     | Order
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 
 [Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra
-[Monica]()                                          | the southerner with french fries
+[Monica]()                                          | Smoked Chicken w/ signature slaw and french fries

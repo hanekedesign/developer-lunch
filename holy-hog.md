@@ -24,4 +24,5 @@ Developer     | Order
 [Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra
 [Monica]()                                          | Smoked Chicken w/ signature slaw and french fries
 Brendan                                             | HOG & HEIFER w/ sweet corn fritters 
-Julius                                              | Lunchbox special with Brisket, Jalapeno Mac n Cheese, Iced Tea  
+Julius                                              | Lunchbox special with Brisket, Jalapeno Mac n Cheese, Iced Tea
+Scott                                               | Southerner w/ mac n cheese 

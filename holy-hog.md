@@ -14,7 +14,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate w/ collards & baked beans; Add smoked chicken
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ Fried Okra & corn fritters
-[Joe](https://github.com/Montchat)                  | 
+[Joe](https://github.com/Montchat)                  | BBQUBAN w/ fries
 [Nate](https://github.com/thunemn)                  | Brisket Plate w/ baked beans & corn fritters
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Cowboy Baked Beans and an iced tea
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries

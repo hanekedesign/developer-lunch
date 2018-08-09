@@ -18,7 +18,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | Brisket Plate w/ baked beans & corn fritters
 [Brad](https://github.com/bself)                    | Lunchbox special with Pulled Pork, Cowboy Baked Beans and an iced tea
 [Minho](https://github.com/minhochoi)               | Lunchbox special with Pulled Pork, Loaded Potato Salad and an iced tea
-[Daniel](https://github.come/dtartaglia)            | Lunch Box Special (Pulled Pork, Cowboy Baked Beans, Coke)
+[Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        | 
 [Colin](https://github.com/ColinFendrick)           | Sides Trio - Jalapeno Mac n Cheese, Corn Fritters, Fried Okra

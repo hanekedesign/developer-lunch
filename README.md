@@ -6,3 +6,4 @@
 * [Holy Hog](holy-hog.md)
 * [Siam Thai](siam-thai.md)
 * [Urban Cantina](urban-cantina.md)
+* [Vale](vale.md)

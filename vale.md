@@ -18,6 +18,6 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Regular Bowl, 2x Daily Greens, 2x Oven Roasted Broccoli, 2x Diced SW Chicken Breast with Pico De Gallo, 2x Corn Salsa, Chipolte Ranch
 [Julius](https://github.com/jbzozowski)             | 
-[Brendan](https://github.com/brendanxmac)           | 
+[Brendan](https://github.com/brendanxmac)           | Reg, Sweets+quinoa, broccoli+mush, 2x chicken, racha honey, goat cheese
 [Scott](https://github.com/Scotty813)               |
 

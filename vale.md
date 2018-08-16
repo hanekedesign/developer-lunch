@@ -1,6 +1,3 @@
-https://valefoodco.revelup.com/weborder/?establishment=3
-
-
 ## Vale Food Co
 ###### 501 N Franklin Street
 ###### Tampa, FL

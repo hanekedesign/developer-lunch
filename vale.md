@@ -10,7 +10,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | Regular bowl, 2x sweet potatoes, brussel sprouts, broccoli, 2x ancho chicken, corn salsa, chipotle ranch
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 

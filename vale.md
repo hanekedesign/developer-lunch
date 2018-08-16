@@ -16,7 +16,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Regular Bowl, 2x Daily Greens, 2x Oven Roasted Broccoli, 2x Diced SW Chicken Breast with Pico De Gallo, 2x Corn Salsa, Chipolte Ranch
 [Julius](https://github.com/jbzozowski)             | 
 [Brendan](https://github.com/brendanxmac)           | 
 [Scott](https://github.com/Scotty813)               |

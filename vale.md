@@ -15,7 +15,7 @@ Developer     | Order
 [Joe](https://github.com/Montchat)                  | Regular Bowl, 2X DAILY GREENS, 2X BROCOLLI, 2X ANcho Chicken, NO BOOST
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Regular bowl, 2x sweet potatoes, Balsamic Roasted Mushrooms, Oven roasted broccoli, Diced SW Chicken Breast with Pico De Gallo, Diced BBQ Chicken, corn salsa, 2x Curry Honey Mustard
 [Daniel](https://github.come/dtartaglia)            | Regular Bowl, 2x Daily Greens, 2x Oven Roasted Broccoli, 2x Diced SW Chicken Breast with Pico De Gallo, 2x Corn Salsa, Chipolte Ranch
 [Julius](https://github.com/jbzozowski)             | 
 [Brendan](https://github.com/brendanxmac)           | Reg, Sweets+quinoa, broccoli+mush, 2x chicken, racha honey, goat cheese

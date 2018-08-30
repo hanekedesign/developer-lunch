@@ -12,7 +12,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Regular bowl, 2x sweet potatoes, brussel sprouts, broccoli, 2x ancho chicken, corn salsa, chipotle ranch
 [Mark](http://github.com/mark-smithtb)              | 
-[Joe](https://github.com/Montchat)                  | Regular Bowl, 2X DAILY GREENS, 2X BROCOLLI, 2X ANcho Chicken, NO BOOST
+[Joe](https://github.com/Montchat)                  | Regular Bowl, 2X DAILY GREENS, 2X BROCOLLI, 2X Diced Southwest chicken, NO BOOST
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Regular bowl, 2x Chipotle Mac 'n Cheese, Balsamic Roasted Mushrooms, Oven roasted broccoli, 2X Buffalo Chicken, corn salsa, 2x Curry Honey Mustard

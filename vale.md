@@ -11,8 +11,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Regular bowl, 2x sweet potatoes, brussel sprouts, broccoli, 2x ancho chicken, corn salsa, chipotle ranch
-[Mark](http://github.com/mark-smithtb)              | Regular Bowl, Vegetable Quinoa, roasted sweet potatoes, curry cauliflower, broccoli,
-                                                      2x Turkey meatballs, feta cheese, 2x curry honey mustard.
+[Mark](http://github.com/mark-smithtb)              | Regular Bowl, Vegetable Quinoa, roasted sweet potatoes, curry cauliflower, broccoli, 2x Turkey meatballs, feta cheese, 2x curry honey mustard.
 [Joe](https://github.com/Montchat)                  | Regular Bowl, 2X DAILY GREENS, 2X BROCOLLI, 2X Diced Southwest chicken, NO BOOST
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 

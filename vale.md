@@ -20,6 +20,6 @@ Developer     | Order
 [Julius](https://github.com/jbzozowski)             | Regular bowl, 2x sweet potatoes, brussel sprouts, broccoli, 2x ancho chicken, corn salsa, chipotle ranch
 [Brendan](https://github.com/brendanxmac)           | Reg, Sweets+Rice, broccoli+Cauliflower, Turk meatballs + ancho chicken, goat cheese, curry honey mustard
 [Scott](https://github.com/Scotty813)               | Regular, 2x daily greens, roasted brocc, flank steak, avocade caesar, goat cheese
-Lucas                                               | Regular, rice+sweet potatoes, brocc + brussels sprouts, Diced Southwest Chicken Breast w/ pico de Gallo x2, corn salsa, chipotle ranch
+Lucas                                               | Regular, rice+sweet potatoes, brocc x2, Italian Chicken x2, corn salsa, chipotle ranchx2
 [Kevin] ()                                          | Nothing - thanks.
 Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauli, Turk meatballs, ancho chicken, curry honey mustad

@@ -10,7 +10,7 @@ Developer     | Order
 [Nate](https://github.com/thunemn)                  | 
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Burrito: Carnitas, white rice, black beans, tomatillo-green chili salsa, sour cream, fajita veggies, cheese. Chips
 [Julius](https://github.com/jbzozowski)             | 
 [Brendan](https://github.com/brendanxmac)           | 
 [Scott](https://github.com/Scotty813)               | 

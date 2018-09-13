@@ -13,7 +13,7 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Burrito: Carnitas, white rice, black beans, tomatillo-green chili salsa, sour cream, fajita veggies, cheese. Chips
 [Julius](https://github.com/jbzozowski)             | 
 [Brendan](https://github.com/brendanxmac)           | 
-[Scott](https://github.com/Scotty813)               | 
+[Scott](https://github.com/Scotty813)               | Burrito Bowl: white rice, black beans, fajitas, steak, pico, sour cream, corn
 Lucas                                               | 
 [Kevin] ()                                          | 
 Cory                                                | 

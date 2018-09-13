@@ -5,7 +5,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | 
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Bowl with barbacoa, brown rice, black beans, fajita veggies, and queso
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | Burrito bowl - double white rice, no beans, steak, pico, sour cream, cheese.
 [Brad](https://github.com/bself)                    | Chicken burrito bowl w/ white rice, black beans, cheese and fresh tomoato salsa

@@ -8,7 +8,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | 
 [Nate](https://github.com/thunemn)                  | 
-[Brad](https://github.com/bself)                    | 
+[Brad](https://github.com/bself)                    | Chicken burrito bowl w/ white rice, black beans, cheese and fresh tomoato salsa
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Julius](https://github.com/jbzozowski)             | 

@@ -21,3 +21,4 @@ Developer     | Order Preference
 Mark Schneider                                      | Amazing Chicken, mild
 Julius                                              | Chicken Panang Curry - Medium
 Lucas                                               | Chicken Fried Rice
+Cory                                                | Chicken Green Curry - Medium

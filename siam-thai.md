@@ -20,5 +20,4 @@ Developer     | Order Preference
 [Monica](https://github.com/MonicaUlloa)            | Pad Thai chicken
 Mark Schneider                                      | Amazing Chicken, mild
 Julius                                              | Chicken Panang Curry - Medium
-Brendan                                             | Chicken Eggplant Basil Stir Fry
 Lucas                                               | Chicken Fried Rice

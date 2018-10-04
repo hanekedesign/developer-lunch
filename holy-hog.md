@@ -18,7 +18,6 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Brisket Plate w/ fried okra and jalapeno mac'n cheese
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
-Julius                                              | Lunchbox special with Brisket, Jalapeno Mac n Cheese, Iced Tea
+Julius                                              | Brisket Plate w/ potato salad & baked beans
 Scott                                               | Southerner w/ mac n cheese 
 Lucas                                               | HOG & HEIFER w/ sweet corn fritters
-Cory                                                | Lunchbox PulledPork sandwich, Slaw, Unsweet Iced Tea

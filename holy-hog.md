@@ -21,3 +21,4 @@ Developer     | Order
 Julius                                              | Brisket Plate w/ potato salad & baked beans
 Scott                                               | Southerner w/ mac n cheese 
 Lucas                                               | HOG & HEIFER w/ sweet corn fritters
+Cory                                                | Lunch Box, Brisket sanddwich, Jalapeno Mac, unsweet tea

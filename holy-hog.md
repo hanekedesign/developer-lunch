@@ -13,7 +13,7 @@ Tampa, FL
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate (lean) w/ collards & baked beans
-[Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ Fried Okra & corn fritters
+[Mark](http://github.com/mark-smithtb)              | 
 [Joe](https://github.com/Montchat)                  | BBQUBAN w/ fries
 [Brad](https://github.com/bself)                    | Brisket Plate w/ fried okra and jalapeno mac'n cheese
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries

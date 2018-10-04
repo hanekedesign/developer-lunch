@@ -21,3 +21,4 @@ Developer     | Order
 Julius                                              | Lunchbox special with Brisket, Jalapeno Mac n Cheese, Iced Tea
 Scott                                               | Southerner w/ mac n cheese 
 Lucas                                               | HOG & HEIFER w/ sweet corn fritters
+Cory                                                | Lunchbox PulledPork sandwich, Slaw, Unsweet Iced Tea

@@ -22,4 +22,4 @@ Developer     | Order
 [Scott](https://github.com/Scotty813)               | Regular, Vale rice, sweet potatoes, brocc, brussels, flank steak, avocade caesar, goat cheese
 Lucas                                               | Regular, rice+sweet potatoes, brocc x2, Italian Chicken x2, corn salsa, chipotle ranchx2
 [Kevin] ()                                          | Nothing - thanks.
-Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauli, Turk meatballs, ancho chicken, curry honey mustad
+Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauli, BBQ Braised Beef, ancho chicken, curry honey mustad

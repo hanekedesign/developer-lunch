@@ -14,8 +14,10 @@ Developer     | Order Preference
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | Crunchy Tinga Tacos
 [Kevin]()                                           | Chicken Quesadilla
-[Jesse](https://github.com/jessecurry)              | El Rey *Super Fancy*
+[Jesse](https://github.com/jessecurry)    	        | El Rey *Super Fancy*
+[Monica]()                                          | Chicken Quesadilla
 [Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
 [Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
-[Lucas]()                                           | Chicken Quesadilla
+[Lucas]                                             | Chicken Quesadilla
 Cory                                                | El Chango
+Scott                                               | Carne Asada Tacos

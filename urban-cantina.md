@@ -18,6 +18,6 @@ Developer     | Order Preference
 [Monica]()                                          | Chicken Quesadilla
 [Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
 [Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
-[Lucas]()                                           | Chicken Quesadilla
+[Lucas]()                                           | Canitas Tacos
 [Cory]()                                            | El Chango
 [Scott]()                                           | Carne Asada Tacos

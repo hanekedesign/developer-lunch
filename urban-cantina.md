@@ -17,6 +17,6 @@ Developer     | Order Preference
 [Jesse](https://github.com/jessecurry)    	        | El Rey *Super Fancy*
 [Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
 [Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
-[Lucas]()                                           | Chicken Quesadilla
+[Lucas]()                                           | Canitas Tacos
 [Cory]()                                            | El Chango
 [Scott]()                                           | Carne Asada Tacos

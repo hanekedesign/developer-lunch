@@ -18,4 +18,4 @@ Developer     | Order Preference
 [Colin](https://github.com/ColinFendrick)           | Veggie Tostada Salad
 [Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
 [Lucas]()                                           | Chicken Quesadilla
-Cory                                                | El Chango
+[Cory]()                                            | El Chango

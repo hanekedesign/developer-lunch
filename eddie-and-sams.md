@@ -16,3 +16,4 @@ Developer     | Order Preference
 Kevin                                               | No anchovies
 Colin                                               | No meat
 Monica                                              | Banana peppers
+Cory                                                | No mushrooms

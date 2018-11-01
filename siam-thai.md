@@ -18,5 +18,5 @@ Developer                                           | Order Preference
 [Julius](https://github.com/)                       | Chicken Panang Curry - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Scott](https://github.com/)                        | Chicken Panang Curry - Medium
-[Cory](https://github.com/khaladin)                 | Chicken Red Curry - Medium
+[Cory](https://github.com/khaladin)                 | Chicken Green Curry - Medium
 [Jody]()                                            | Double Chicken Garlic and black pepper stir fry no rice extra veg

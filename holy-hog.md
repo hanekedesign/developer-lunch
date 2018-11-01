@@ -19,6 +19,6 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 Julius                                              | Brisket Plate w/ potato salad & baked beans
-Scott                                               | Southerner w/ mac n cheese 
+Scott                                               |  
 Lucas                                               | HOG & HEIFER w/ sweet corn fritters
 Cory                                                | Lunch Box, Brisket sanddwich, Jalapeno Mac, unsweet tea

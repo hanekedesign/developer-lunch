@@ -20,6 +20,6 @@ Developer     | Order
 [Julius](https://github.com/jbzozowski)             | 
 [Colin](https://github.com/ColinFendrick)           | Caprese on wheat
 [Monica](https://github.com/MonicaUlloa)            |Buffalo Chicken Wrap
-
+[Cory](https://github.com/Khaladin)                 | Thai Chicken Wrap
 Order at: https://order.earlofsandwichusa.com
 username: admin@hanekedesign.com

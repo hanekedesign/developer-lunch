@@ -13,8 +13,7 @@ Tampa, FL
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate (lean) w/ collards & baked beans
-[Mark](http://github.com/mark-smithtb)              | 
-[Joe](https://github.com/Montchat)                  | 
+[Mark](http://github.com/mark-smithtb)              |                  | 
 [Brad](https://github.com/bself)                    | Brisket Plate w/ fried okra and sweet corn fritters
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw

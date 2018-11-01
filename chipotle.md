@@ -16,4 +16,5 @@ Developer     | Order
 [Scott](https://github.com/Scotty813)               | Burrito Bowl: white rice, black beans, fajitas, steak, pico, sour cream, corn
 Lucas                                               | 
 [Kevin] ()                                          | 
-Cory                                                | 
+Cory                                                | Bowl: Sofritas, black beans & brown rice, fajita veggies, 
+                                               Tomatoe salsa & red chili salsa, sour Cream, corn salsa, lettuce, cheese, guac,

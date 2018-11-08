@@ -15,7 +15,7 @@ Developer                                           | Order Preference
 [Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Thai Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Medium
 [Jesse](https://github.com/jessecurry)              | Chicken Red Curry - Medium
-[Julius](https://github.com/)                       | Chicken Panang Curry - Medium
+[Julius](https://github.com/)                       | Chicken Pad Drunken Noodle - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Scott](https://github.com/)                        | Chicken Panang Curry - Medium
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Medium

@@ -11,7 +11,7 @@ Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
 [Brad](https://github.com/bself)                    | El Chango
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
 [Kevin]()                                           | 
 [Jesse](https://github.com/jessecurry)              | El Santo Salad, Double Chicken, no tomato, no cheese

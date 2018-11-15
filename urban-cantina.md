@@ -12,7 +12,7 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
 [Brad](https://github.com/bself)                    | El Chango
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | Crunchy Tinga Tacos
+[Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
 [Kevin]()                                           | Chicken Quesadilla
 [Jesse](https://github.com/jessecurry)              | El Santo Salad, Double Chicken, no tomato, no cheese
 [Julius](https://github.com/jbzozowski)             | Fish Tacos

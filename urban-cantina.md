@@ -15,7 +15,7 @@ Developer     | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Crunchy Tinga Tacos
 [Kevin]()                                           | Chicken Quesadilla
 [Jesse](https://github.com/jessecurry)              | El Santo Salad, Double Chicken, no tomato, no cheese
-[Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
+[Julius](https://github.com/jbzozowski)             | Fish Tacos
 [Lucas]()                                           | Canitas Tacos
 [Cory]()                                            | El Chango
 [Scott]()                                           | Carne Asada Tacos

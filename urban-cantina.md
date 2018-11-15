@@ -10,7 +10,7 @@
 Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
-[Brad](https://github.com/bself)                    | El Chango
+[Brad](https://github.com/bself)                    | El Chango w/ Steak Taco
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
 [Kevin]()                                           | 

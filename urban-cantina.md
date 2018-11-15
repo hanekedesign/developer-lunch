@@ -10,7 +10,7 @@
 Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
-[Brad](https://github.com/bself)                    | 
+[Brad](https://github.com/bself)                    | El Chango
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Crunchy Tinga Tacos
 [Kevin]()                                           | Chicken Quesadilla

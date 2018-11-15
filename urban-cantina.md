@@ -13,7 +13,7 @@ Developer     | Order Preference
 [Brad](https://github.com/bself)                    | El Chango
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
-[Kevin]()                                           | Chicken Quesadilla
+[Kevin]()                                           | 
 [Jesse](https://github.com/jessecurry)              | El Santo Salad, Double Chicken, no tomato, no cheese
 [Julius](https://github.com/jbzozowski)             | Fish Tacos
 [Lucas]()                                           | Canitas Tacos

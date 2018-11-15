@@ -18,4 +18,4 @@ Developer     | Order Preference
 [Julius](https://github.com/jbzozowski)             | Fish Tacos
 [Lucas]()                                           | Canitas Tacos
 [Cory]()                                            | El Chango
-[Scott]()                                           | Carne Asada Tacos
+[Scott]()                                           | Cantina Burrito w/ steak

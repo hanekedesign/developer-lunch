@@ -16,6 +16,6 @@ Developer     | Order Preference
 [Kevin]()                                           | 
 [Jesse](https://github.com/jessecurry)              | El Santo Salad, Double Chicken, no tomato, no cheese
 [Julius](https://github.com/jbzozowski)             | Fish Tacos
-[Lucas]()                                           | Canitas Tacos
+[Lucas]()                                           | Carnitas Tacos
 [Cory]()                                            | El Chango
 [Scott]()                                           | Cantina Burrito w/ steak

@@ -11,7 +11,6 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Grilled pork noodle salad, double meat
 [Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/spicy mayo on the side & 2 springrolls
-[Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Pork Banh Mi 2 w/spicy mayo on the side & 2 veggie Springroll
 [Daniel](https://github.come/dtartaglia)            | Chicken Banh Mi w/spicy mayo
 [Cory](https://github.com/Khaladin)                 | Special

@@ -15,7 +15,7 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | The Full Montagu on white
 [Kevin]()                                           | 
 [Miguel](https://github.com/MiguelBrito1086)        |         
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | Holiday Turkey, double turkey w/ a cup of tomato soup
 [Michael L.]()                                      | 
 [Julius](https://github.com/jbzozowski)             | 
 [Colin](https://github.com/ColinFendrick)           | Caprese on wheat

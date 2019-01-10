@@ -14,7 +14,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | BBQ Pork Rice Dishes
 [Daniel](https://github.come/dtartaglia)            | Beef Pho (Bo)
 [Cory](https://github.com/Khaladin)                 | Special
-[Scott](https://github.com/Khaladin)                | Pork Banh Mi
+[Scott](https://github.com/Khaladin)                | Grilled pork noodle salad
 [Lucas](https://github.com/LucasClaude)             | Grilled pork noodle salad, double meat
 [Julius](https://github.com/jbzozowski)             | Beef Pho (Bo)
 

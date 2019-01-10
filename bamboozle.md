@@ -13,7 +13,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Beef Pho & 2 springrolls
 [Minho](https://github.com/minhochoi)               | BBQ Pork Rice Dishes
 [Daniel](https://github.come/dtartaglia)            | Beef Pho (Bo)
-[Cory](https://github.com/Khaladin)                 | Special
+[Cory](https://github.com/Khaladin)                 | Special - tofu
 [Scott](https://github.com/Khaladin)                | Grilled pork noodle salad
 [Lucas](https://github.com/LucasClaude)             | Grilled pork noodle salad, double meat
 [Julius](https://github.com/jbzozowski)             | Beef Pho (Bo)

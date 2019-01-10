@@ -10,7 +10,7 @@
 Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Grilled pork noodle salad, double meat
-[Mark](http://github.com/mark-smithtb)              | Chicken Banh Mi w/spicy mayo on the side & 2 springrolls
+[Mark](http://github.com/mark-smithtb)              | Beef Pho & 2 springrolls
 [Minho](https://github.com/minhochoi)               | BBQ Pork Rice Dishes
 [Daniel](https://github.come/dtartaglia)            | Beef Pho (Bo)
 [Cory](https://github.com/Khaladin)                 | Special

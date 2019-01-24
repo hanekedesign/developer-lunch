@@ -10,7 +10,6 @@ Developer     | Order Preference
 [Minho](https://github.com/minhochoi)               | 
 [Jesse](https://github.com/jessecurry)              | 
 [Mark](http://github.com/mark-smithtb)              | Supreme (not picky though)
-[Joe](https://github.com/Montchat)                  | Pizza 
 [Brad](https://github.com/bself)                    | No Onion
 Kevin                                               | No anchovies
 Cory                                                | No mushrooms

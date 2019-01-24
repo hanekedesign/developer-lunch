@@ -12,8 +12,5 @@ Developer     | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Supreme (not picky though)
 [Joe](https://github.com/Montchat)                  | Pizza 
 [Brad](https://github.com/bself)                    | No Onion
-[Nathan]                                            |
 Kevin                                               | No anchovies
-Colin                                               | No meat
-Monica                                              | Banana peppers
 Cory                                                | No mushrooms

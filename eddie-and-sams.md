@@ -14,3 +14,4 @@ Developer     | Order Preference
 Kevin                                               | No anchovies
 Cory                                                | No mushrooms
 Scott                                               | No mushrooms
+[Lucas](http://github.com/LucasClaude)              | No anchovies

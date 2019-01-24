@@ -13,3 +13,4 @@ Developer     | Order Preference
 [Brad](https://github.com/bself)                    | No Onion
 Kevin                                               | No anchovies
 Cory                                                | No mushrooms
+Scott                                               | No mushrooms

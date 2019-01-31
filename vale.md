@@ -16,7 +16,6 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Regular bowl, 2x Chipotle Mac 'n Cheese, Balsamic Roasted Mushrooms, Oven roasted broccoli, 2X Buffalo Chicken, corn salsa, 2x Curry Honey Mustard
 [Daniel](https://github.come/dtartaglia)            | Regular bowl, 2x Daily Greens, 2x Rosted Broccoli, 2x House Flank Steak, Parmesan Cheese, 2x Citrus Vin
 [Julius](https://github.com/jbzozowski)             | Regular bowl, sweet potatoes, cauliflower, bbq braised beef, corn salsa, chipotle ranch
-[Brendan](https://github.com/brendanxmac)           | Reg, Sweets+Rice, broccoli+Cauliflower, Turk meatballs + ancho chicken, goat cheese, curry honey mustard
 [Scott](https://github.com/Scotty813)               | Regular, Vale rice, sweet potatoes, brocc, brussels, flank steak, avocade caesar, goat cheese
 Lucas                                               | Regular, rice+sweet potatoes, brocc x2, Italian Chicken x2, corn salsa, chipotle ranchx2
 [Kevin] ()                                          | Nothing - thanks.

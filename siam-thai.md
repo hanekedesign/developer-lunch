@@ -10,11 +10,11 @@
 Developer                                           | Order Preference
 ----------------------------------------------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Pad Drunken Noodle - Medium
-[Brad](https://github.com/bradreed)                 | Chicken Pineapple Fried Rice - no onions + 1 crab rangoon
+[Brad](https://github.com/bradreed)                 | 
 [Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Thai Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Medium
 [Jesse](https://github.com/jessecurry)              | Chicken Cashew Stir Fry - Medium - Double Chicken, Double Veg, No Rice
-[Julius](https://github.com/)                       | Chicken Pad Drunken Noodle - Medium
+[Julius](https://github.com/)                       | Chicken Pad La Na - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Scott](https://github.com/)                        | Chicken Panang Curry - Medium
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot

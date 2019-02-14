@@ -12,7 +12,7 @@ Tampa, FL
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | Brisket Plate w/ collards & sweet potato casserole
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ homemade jalapeno mac'n cheese & corn fritters              
 [Brad](https://github.com/bself)                    | Smoke Chicken Plate w/ Cowboy Baked Beans and sweet corn fritters
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries

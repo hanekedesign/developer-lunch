@@ -14,7 +14,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate w/ collards & sweet potato casserole
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ homemade jalapeno mac'n cheese & corn fritters              
-[Brad](https://github.com/bself)                    | Smoke Chicken Plate w/ Cowboy Baked Beans and sweet corn fritters
+[Brad](https://github.com/bradreed)                 | Pulled Pork Plate w/ Cowboy Baked Beans and homemade jalapeno mac'n cheese
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 Julius                                              | Brisket Plate w/ potato salad & baked beans

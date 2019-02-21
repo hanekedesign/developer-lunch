@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 
 [Mark](http://github.com/mark-smithtb)              |  
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Rise & Shine Bowl
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad
 [Julius](https://github.com/jbzozowski)             | 
 [Scott](https://github.com/Scotty813)               | 

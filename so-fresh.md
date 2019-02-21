@@ -13,7 +13,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              |  
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Fiji Salad
 [Julius](https://github.com/jbzozowski)             | 
 [Scott](https://github.com/Scotty813)               | 
 [Lucas]()                                           |

@@ -11,7 +11,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Granny salad with chicken (+ egg)
 [Mark](http://github.com/mark-smithtb)              |  
-[Brad](https://github.com/bself)                    | Rise and Shine Bowl - no onions
+[Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Rise & Shine Bowl
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad
 [Julius](https://github.com/jbzozowski)             | Rise & Shine Bowl

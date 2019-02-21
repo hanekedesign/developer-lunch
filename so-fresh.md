@@ -16,5 +16,5 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad
 [Julius](https://github.com/jbzozowski)             | Rise & Shine Bowl
 [Scott](https://github.com/Scotty813)               | Rise & Shine Bowl
-[Lucas]()                                           |
+[Lucas](https://github.com/LucasClaude)             | Pesto Club Wrap with chiken, side of Ceaser salad
 [Cory]()                                            | Pesto Club Wrap with chiken, side of Ceaser salad

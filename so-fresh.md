@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Granny salad with chicken (+ egg)
 [Mark](http://github.com/mark-smithtb)              | Greek bowl with quinoa instead of rice and chicken
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | Rise & Shine Bowl
+[Minho](https://github.com/minhochoi)               | Rise & Shine Bowl / Steak
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad
 [Julius](https://github.com/jbzozowski)             | Rise & Shine Bowl / Chicken
 [Scott](https://github.com/Scotty813)               | Rise & Shine Bowl - Steak

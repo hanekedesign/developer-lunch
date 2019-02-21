@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | Granny salad with chicken (+ egg)
 [Mark](http://github.com/mark-smithtb)              |  
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Rise & Shine Bowl

@@ -17,4 +17,4 @@ Developer     | Order
 [Julius](https://github.com/jbzozowski)             | 
 [Scott](https://github.com/Scotty813)               | 
 [Lucas]()                                           |
-[Cory]()                                            |
+[Cory]()                                            | Pesto Club Wrap with chiken, side of Ceaser salad

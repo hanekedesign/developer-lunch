@@ -13,7 +13,7 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | Greek bowl with quinoa instead of rice and chicken
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Rise & Shine Bowl / Steak
-[Daniel](https://github.come/dtartaglia)            | Fiji Salad
+[Daniel](https://github.come/dtartaglia)            | Stir Fry Bowl w/ Bistro Chuck Steak
 [Julius](https://github.com/jbzozowski)             | Rise & Shine Bowl / Chicken
 [Scott](https://github.com/Scotty813)               | Rise & Shine Bowl - Steak
 [Lucas](https://github.com/LucasClaude)             | B Rap Wrap with chiken, side of Ceaser salad

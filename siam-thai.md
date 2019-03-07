@@ -20,5 +20,5 @@ Developer                                           | Order Preference
 [Julius](https://github.com/)                       | Chicken Pad La Na - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Scott](https://github.com/)                        | 
-[Cory](https://github.com/khaladin)                 | Chicken Rice soup & tofu soup
+[Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot
 

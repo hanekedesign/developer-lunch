@@ -17,5 +17,4 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Regular bowl, 2x Chipotle Mac 'n Cheese, 2x Roasted Broccoli, 2x House Flank Steak
 [Julius](https://github.com/jbzozowski)             | Regular bowl, sweet potatoes, cauliflower, roasted broccoli, 2x ancho chicken, corn salsa, chipotle ranch
 Lucas                                               | Regular, rice+sweet potatoes, brocc x2, Italian Chicken x2, Parmesan Cheese, chipotle ranchx2
-[Kevin] ()                                          | Nothing - thanks.
 Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauliflour, Italian Chicken, ancho chicken, curry honey mustad, Sriracha Honey Chile

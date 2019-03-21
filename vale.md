@@ -18,4 +18,4 @@ Developer     | Order
 [Julius](https://github.com/jbzozowski)             | Regular bowl, sweet potatoes, cauliflower, bbq braised beef, corn salsa, chipotle ranch
 Lucas                                               | Regular, rice+sweet potatoes, brocc x2, Italian Chicken x2, Parmesan Cheese, chipotle ranchx2
 [Kevin] ()                                          | Nothing - thanks.
-Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauliflour, Turkey Meatballs, ancho chicken, curry honey mustad, Sriracha Honey Chile
+Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauliflour, Italian Chicken, ancho chicken, curry honey mustad, Sriracha Honey Chile

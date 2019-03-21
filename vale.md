@@ -10,14 +10,12 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Regular bowl, 2x sweet potatoes, brussel sprouts, broccoli, 2x ancho chicken, corn salsa, chipotle ranch
+[Jesse](https://github.com/jessecurry)              |  
 [Mark](http://github.com/mark-smithtb)              |  small Bowl, Vegetable Quinoa, roasted sweet potatoes, broccoli, turkey meatballs, spicy feta cheese, 2x chipotle ranch.
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Regular bowl, Daily Greens, Oven Roasted Sweet Potatoes, Roasted Broccoli, Balsamic Roasted Mushrooms, BBQ Oumph, Ancho Pulled Chicken, Sunflower Seeds, Curry Honey Mustard, Avocado Caesar
 [Daniel](https://github.come/dtartaglia)            | Regular bowl, 2x Daily Greens, 2x Rosted Broccoli, 2x House Flank Steak, Parmesan Cheese, 2x Citrus Vin
 [Julius](https://github.com/jbzozowski)             | Regular bowl, sweet potatoes, cauliflower, bbq braised beef, corn salsa, chipotle ranch
-[Brendan](https://github.com/brendanxmac)           | Reg, Sweets+Rice, broccoli+Cauliflower, Turk meatballs + ancho chicken, goat cheese, curry honey mustard
-[Scott](https://github.com/Scotty813)               | Regular, Vale rice, sweet potatoes, brocc, brussels, flank steak, avocade caesar, goat cheese
 Lucas                                               | Regular, rice+sweet potatoes, brocc x2, Italian Chicken x2, Parmesan Cheese, chipotle ranchx2
 [Kevin] ()                                          | Nothing - thanks.
 Cory                                                | Reg, Sweet potatoes + quinoa, green beans + cauliflour, Turkey Meatballs, ancho chicken, curry honey mustad, Sriracha Honey Chile

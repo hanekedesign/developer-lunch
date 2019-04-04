@@ -14,6 +14,6 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | Rise & Shine Bowl / Steak
 [Daniel](https://github.come/dtartaglia)            | Stir Fry Bowl w/ Bistro Chuck Steak
-[Julius](https://github.com/jbzozowski)             | Rise & Shine Bowl / Chicken
+[Julius](https://github.com/jbzozowski)             | Boca Fiesta / Steak
 [Lucas](https://github.com/LucasClaude)             | B Rap Wrap with chicken, side of Ceaser salad
 [Cory]()                                            | Rise and Shine Wrap with chiken, side of House Salad

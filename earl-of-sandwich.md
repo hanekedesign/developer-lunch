@@ -11,7 +11,7 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | Chipotle Chicken Avocado w/ a cup of tomato soup
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white
 [Daniel](https://github.come/dtartaglia)            | 
-[Jesse](https://github.com/jessecurry)              | Holiday Turkey, double turkey w/ a cup of tomato soup
+[Jesse](https://github.com/jessecurry)              | 
 [Julius](https://github.com/jbzozowski)             | 
 [Cory](https://github.com/Khaladin)                 | Thai Chicken Wrap
 

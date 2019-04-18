@@ -12,7 +12,7 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white
 [Daniel](https://github.come/dtartaglia)            | 
 [Jesse](https://github.com/jessecurry)              | 
-[Julius](https://github.com/jbzozowski)             | 
+[Julius](https://github.com/jbzozowski)             | Chicken Bacon Avocado w/ potato salad
 [Cory](https://github.com/Khaladin)                 | Thai Chicken Wrap
 
 

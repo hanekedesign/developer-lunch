@@ -13,8 +13,8 @@ email lunch order to: sdohack@gmail.com
 Developer                                           | Order Preference
 ----------------------------------------------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | 
-[Brad](https://github.com/bradreed)                 | Pineapple Fried Rice & Crab Rangoons
-[Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Thai Hot
+[Brad](https://github.com/bradreed)                 | Chicken Pineapple Fried Rice (no onions if possible) & Crab Rangoons
+[Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Jesse](https://github.com/jessecurry)              | 
 [Julius](https://github.com/)                       | Chicken Pad La Na - Medium

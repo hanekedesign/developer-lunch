@@ -17,7 +17,7 @@ Developer                                           | Order Preference
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Jesse](https://github.com/jessecurry)              | 
-[Julius](https://github.com/)                       | Chicken Pad La Na - Medium
+[Julius](https://github.com/)                       | Chicken Pad Drunken Noodle - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot
 

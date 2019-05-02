@@ -12,7 +12,7 @@ Tampa, FL
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | 
+[Jesse](https://github.com/jessecurry)              | Brisket Plate w/ Collard Greens & Baked Beans
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ COWBOY BAKED BEANS & GREEN BEANS & HAM               
 [Brad](https://github.com/bradreed)                 | Pulled Pork Plate w/ Cowboy Baked Beans & homemade jalapeno mac'n cheese
 [Minho](https://github.com/minhochoi)               | 

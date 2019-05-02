@@ -17,6 +17,6 @@ Developer     | Order
 [Brad](https://github.com/bradreed)                 | Pulled Pork Plate w/ Cowboy Baked Beans & homemade jalapeno mac'n cheese
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
-Julius                                              | Brisket Plate w/ potato salad & baked beans
+Julius                                              | Brisket Plate w/ signature slaw & baked beans
 Lucas                                               | HOG & HEIFER w/ sweet corn fritters
 Cory                                                | Brisket Plate w/ Collard's & loaded potato salad

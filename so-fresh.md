@@ -12,7 +12,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | Fiji salad w/ Chicken
 [Mark](http://github.com/mark-smithtb)              | Build your own bowl w/  Chicken, Quinoa,Spinach, Onions, Corn, Tomatoes, Mushrooms, Goat Cheese, Sweet Chili Sauce
 [Brad](https://github.com/bself)                    | 
-[Minho](https://github.com/minhochoi)               | Rise & Shine Bowl / Steak
+[Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad w/ Bistro Chuck Steak
 [Julius](https://github.com/jbzozowski)             | Boca Fiesta Bowl / Steak
 [Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chiken, side of House Salad

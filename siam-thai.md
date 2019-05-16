@@ -20,4 +20,4 @@ Developer                                           | Order Preference
 [Julius](https://github.com/)                       | Chicken Pad Drunken Noodle - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot
-
+[Charlie](https://github.com/charliedraper)         | Chicken Pad Thai Noodle - Mild

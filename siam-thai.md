@@ -15,9 +15,9 @@ Developer                                           | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Chicken Pad Drunken Noodle - Medium
 [Brad](https://github.com/bradreed)                 | Chicken Pineapple Fried Rice (no onions if possible) & Crab Rangoons
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
+[Daniel](https://github.come/dtartaglia)            | 
 [Jesse](https://github.com/jessecurry)              | Chicken Red Curry - Medium
 [Julius](https://github.com/)                       | Chicken Pad Drunken Noodle - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot
-
+[Charlie](https://github.com/charliedraper)         | Chicken Pad Thai Noodle - Mild

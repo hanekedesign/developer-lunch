@@ -14,6 +14,6 @@ Developer     | Order
 [Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad w/ Bistro Chuck Steak
-[Julius](https://github.com/jbzozowski)             | Boca Fiesta Bowl / Steak
+[Julius](https://github.com/jbzozowski)             | Rise and Shine Bowl / Steak
 [Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chiken, side of House Salad
 [Cory]()                                            | Rise and Shine Wrap with chiken, side of House Salad

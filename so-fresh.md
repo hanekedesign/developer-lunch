@@ -17,4 +17,4 @@ Developer     | Order
 [Julius](https://github.com/jbzozowski)             | Rise and Shine Bowl / Steak
 [Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chiken, side of House Salad
 [Cory]()                                            | Rise and Shine Wrap with chiken, side of House Salad
-[Charlie]()                                         | Cauli Bowl with Chicken
+[Charlie](https://github.com/charliedraper)         | Cauli Bowl with Chicken

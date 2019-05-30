@@ -17,7 +17,7 @@ Developer                                           | Order Preference
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Jesse](https://github.com/jessecurry)              | Chicken Red Curry - Medium
-[Julius](https://github.com/)                       | Chicken Pad Drunken Noodle - Medium
+[Julius](https://github.com/)                       | Chicken Pad See-Ew - Medium
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot
 [Charlie](https://github.com/charliedraper)         | Chicken Pad Thai Noodle - Mild

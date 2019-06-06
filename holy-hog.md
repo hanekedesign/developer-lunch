@@ -14,7 +14,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate w/ Collard Greens & Baked Beans
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ COWBOY BAKED BEANS & GREEN BEANS & HAM               
-[Brad](https://github.com/bradreed)                 | Pulled Pork Plate w/ Cowboy Baked Beans & homemade jalapeno mac'n cheese
+[Brad](https://github.com/bradreed)                 | 
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 Julius                                              | Brisket Plate w/ signature slaw & baked beans

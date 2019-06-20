@@ -10,7 +10,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              |  
+[Jesse](https://github.com/jessecurry)              |  Regular bowl, 2x sweet potatoes, broccoli, green beans, ancho chicken, turkey meatballs, corn salsa, chipotle ranch
 [Brad](https://github.com/bself)                    | 
 [Mark](http://github.com/mark-smithtb)              |  small Bowl, 2x Vegetable Quinoa, broccoli, turkey Ancho Pulled Chicken, spicy feta cheese, 2x chipotle ranch.
 [Minho](https://github.com/minhochoi)               | Regular bowl, Vegetable Quinoa, Oven Roasted Sweet Potatoes, Roasted Broccoli, Balsamic Roasted Mushrooms, BBQ Oumph, Ancho Pulled Chicken, Sunflower Seeds, Curry Honey Mustard, Avocado Caesar

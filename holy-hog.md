@@ -14,7 +14,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Brisket Plate w/ Collard Greens & Baked Beans
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ COWBOY BAKED BEANS & GREEN BEANS & HAM               
-[Brad](https://github.com/bradreed)                 | 
+[Brad](https://github.com/bradreed)                 | Pulled Pork Plate w/ Cowboy Baked Beans & Corn Fritters
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.com/dtartaglia)             | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Lucas](https://github.com/)                        | HOG & HEIFER w/ sweet corn fritters

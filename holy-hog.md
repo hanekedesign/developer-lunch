@@ -19,3 +19,4 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 Lucas                                               | HOG & HEIFER w/ sweet corn fritters
 Cory                                                | Brisket Plate w/ Collard's & loaded potato salad
+[Savannah](https://github.com/KittyGamer46)         | Lunch Box: Smoked Chicken Sandwich, Fries, and a water

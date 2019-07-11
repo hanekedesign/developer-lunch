@@ -11,7 +11,7 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Fiji salad w/ Chicken
 [Mark](http://github.com/mark-smithtb)              | 
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Teriyaki Cauli w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad w/ Bistro Chuck Steak
 [Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chicken
 [Cory]()                                            | Rise and Shine Wrap with chiken

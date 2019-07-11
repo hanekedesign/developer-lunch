@@ -11,7 +11,6 @@ Developer     | Order
 --------------|---------------------
 [Jesse](https://github.com/jessecurry)              | Fiji salad w/ Chicken
 [Mark](http://github.com/mark-smithtb)              | Boca Fiesta bowl with quinoa instead of rice and no jalapeños
-[Brad](https://github.com/bself)                    | 
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad w/ Bistro Chuck Steak
 [Julius](https://github.com/jbzozowski)             | Rise and Shine Bowl / Steak

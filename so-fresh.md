@@ -13,6 +13,6 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | 
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | Fiji Salad w/ Bistro Chuck Steak
-[Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chiken
+[Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chicken
 [Cory]()                                            | Rise and Shine Wrap with chiken
 [Charlie](https://github.com/charliedraper)         | Cauli Bowl with Chicken

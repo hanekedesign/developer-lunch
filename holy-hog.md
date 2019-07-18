@@ -12,11 +12,8 @@ Tampa, FL
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Brisket Plate w/ Collard Greens & Baked Beans
 [Mark](http://github.com/mark-smithtb)              | Brisket Plate w/ COWBOY BAKED BEANS & GREEN BEANS & HAM               
-[Brad](https://github.com/bradreed)                 | Pulled Pork Plate w/ Cowboy Baked Beans & Corn Fritters
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.com/dtartaglia)             | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Lucas](https://github.com/)                        | HOG & HEIFER w/ sweet corn fritters
 [Cory](https://github.com/)                         | Havana Smokie Sausage Plate w/ collards & loaded potato salad
-[Savannah](https://github.com/KittyGamer46)         | Lunch Box: Smoked Chicken Sandwich, Fries, and a water

@@ -17,4 +17,4 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)             | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Lucas](https://github.com/)                        | HOG & HEIFER w/ sweet corn fritters
 [Cory](https://github.com/)                         | Havana Smokie Sausage Plate w/ collards & loaded potato salad
-[Charlie](https://github.com/charliedraper          | Pulled Pork Plate w/ Regular Mac 'n Cheese & French Fries
+[Charlie](https://github.com/charliedraper)          | Pulled Pork Plate w/ Regular Mac 'n Cheese & French Fries

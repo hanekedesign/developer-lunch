@@ -9,10 +9,8 @@
 
 Developer     | Order
 --------------|---------------------
-[Jesse](https://github.com/jessecurry)              | Fiji salad w/ Chicken
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Cali bowl with Chicken and quiona instead of rice
 [Minho](https://github.com/minhochoi)               | Teriyaki Cauli w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Teriyaki Cauli w/ Steak
 [Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chicken
 [Cory]()                                            | Rise and Shine Wrap with chiken
-[Charlie](https://github.com/charliedraper)         | Cauli Bowl with Chicken

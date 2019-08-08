@@ -13,4 +13,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Teriyaki Cauli w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Teriyaki Cauli w/ Steak
 [Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chicken
-[Cory]()                                            | Rise and Shine Wrap with chiken
+[Cory]()                                            | Rise and Shine Wrap with chicken & side salad

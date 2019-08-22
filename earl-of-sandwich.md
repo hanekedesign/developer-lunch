@@ -14,7 +14,7 @@ Developer     | Order
 [Jesse](https://github.com/jessecurry)              | 
 [Julius](https://github.com/jbzozowski)             | Chicken Bacon Avocado Wrap w/ potato salad
 [Cory](https://github.com/Khaladin)                 | Thai Chicken Wrap, side salad with ceaser
-[Lucas](https://github.com/LucasClaude)             | Chipotle Chicken Avocado on Wheat w/ a cup of tomato soup
+[Lucas](https://github.com/LucasClaude)             | Chipotle Chicken Avocado on Wheat w/ a cup of Broccoli & Cheddar
 
 
 Order at: https://order.earlofsandwichusa.com

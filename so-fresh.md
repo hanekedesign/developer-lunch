@@ -11,6 +11,6 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Boca Fiesta bowl with Chicken and quiona instead of rice
 [Minho](https://github.com/minhochoi)               | Teriyaki Cauli w/ Steak
-[Daniel](https://github.come/dtartaglia)            | Teriyaki Cauli w/ Steak
-[Lucas](https://github.com/LucasClaude)             | Rise and Shine Wrap with chicken
+[Daniel](https://github.come/dtartaglia)            | Fuji Salad w/ Steak
+[Lucas](https://github.com/LucasClaude)             | 
 [Cory]()                                            | Rise and Shine Wrap with chicken & side salad

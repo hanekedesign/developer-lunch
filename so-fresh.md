@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | Boca Fiesta bowl with Chicken and quiona instead of rice
+[Mark](http://github.com/mark-smithtb)              | custom chicken bowl with baby spinach, red quinoa, onions, corn, tomatoes, jalapeños, mushrooms, goat cheese, sweet chili sauce
 [Minho](https://github.com/minhochoi)               | Teriyaki bowl w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Fuji Salad w/ Steak
 [Lucas](https://github.com/LucasClaude)             | 

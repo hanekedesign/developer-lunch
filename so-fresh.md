@@ -13,4 +13,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Teriyaki Cauli w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Fuji Salad w/ Steak
 [Lucas](https://github.com/LucasClaude)             | 
-[Cory]()                                            | Rise and Shine Wrap with chicken & side salad
+[Cory]()                                            | Pesto Club Wrap with garlic herb chicken & side salad

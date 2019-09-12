@@ -11,6 +11,6 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | custom chicken bowl with baby spinach, red quinoa, onions, corn, tomatoes, jalapeños, mushrooms, goat cheese, sweet chili sauce
 [Minho](https://github.com/minhochoi)               | Teriyaki bowl w/ Steak
-[Daniel](https://github.come/dtartaglia)            | Fuji Salad w/ Steak
+[Daniel](https://github.come/dtartaglia)            | Strawberry Fuji Salad w/ Grilled Citrus Chicken
 [Lucas](https://github.com/LucasClaude)             | 
 [Cory]()                                            | Pesto Club Wrap with garlic herb chicken & side salad

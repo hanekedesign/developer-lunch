@@ -10,7 +10,7 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Boca Fiesta bowl with Chicken and quiona instead of rice
-[Minho](https://github.com/minhochoi)               | Teriyaki Cauli w/ Steak
+[Minho](https://github.com/minhochoi)               | Teriyaki bowl w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Fuji Salad w/ Steak
 [Lucas](https://github.com/LucasClaude)             | 
 [Cory]()                                            | Pesto Club Wrap with garlic herb chicken & side salad

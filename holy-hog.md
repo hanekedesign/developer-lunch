@@ -16,5 +16,5 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Brisket Plate w/ homemade jalapeno mac'n cheese & house-cut french fries
 [Daniel](https://github.com/dtartaglia)             | Pulled Pork Plate w/ Cowboy Baked Beans & Signature Slaw
 [Lucas](https://github.com/)                        | HOG & HEIFER w/ sweet corn fritters
-[Cory](https://github.com/)                         | Havana Smokie Sausage Plate w/ collards & loaded potato salad
+[Cory](https://github.com/)                         | Burnt ends Plate w/ collards & loaded potato salad
 [Charlie](https://github.com/charliedraper)          | Pulled Pork Plate w/ Regular Mac 'n Cheese & French Fries

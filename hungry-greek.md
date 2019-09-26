@@ -13,4 +13,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Lucas](https://github.com/lucasclaude)             | 
-[Cory](https://github.com/)                         | 
+[Cory](https://github.com/)                         | Falaffel Pita w/ side greek salad

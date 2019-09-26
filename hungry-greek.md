@@ -11,6 +11,6 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | greek bowl w/ gyro meat
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Chicken Pita
 [Lucas](https://github.com/lucasclaude)             | 
 [Cory](https://github.com/)                         | Philly Pita w/ chicken, side greek salad

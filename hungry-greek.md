@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | greek bowl w/ gyro meat
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Lucas](https://github.com/lucasclaude)             | 

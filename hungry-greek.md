@@ -13,4 +13,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Lucas](https://github.com/lucasclaude)             | 
-[Cory](https://github.com/)                         | Falaffel Pita w/ side greek salad
+[Cory](https://github.com/)                         | Philly Pita w/ chicken, side greek salad

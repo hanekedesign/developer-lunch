@@ -2,7 +2,6 @@
 ###### 808 Franklin St, #107B 
 ###### Tampa, FL
 ###### 813-443-2251
-###### tampa@valefoodco.com
 
 
 [View Menu](https://www.toasttab.com/hungry-greek-franklin/v2/online-order#!/order)

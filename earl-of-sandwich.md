@@ -7,7 +7,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | Chipotle Chicken Avocado on Wheat
+[Mark](http://github.com/mark-smithtb)              | Chipotle Chicken Avocado on Wheat w/ a bowl of Broccoli & Cheddar
 [Minho](https://github.com/minhochoi)               | Hawaiian BBQ on white w/ a bowl of Broccoli & Cheddar
 [Daniel](https://github.come/dtartaglia)            | Italian on white
 [Cory](https://github.com/Khaladin)                 | Thai Chicken Wrap, side salad with ceaser

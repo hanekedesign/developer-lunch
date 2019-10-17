@@ -13,4 +13,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Teriyaki bowl w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Strawberry Fuji Salad w/ Grilled Citrus Chicken
 [Lucas](https://github.com/LucasClaude)             | 
-[Cory]()                                            | Pesto Club Wrap with garlic herb chicken & side salad
+[Cory]()                                            | Pesto Club Wrap with garlic herb chicken

@@ -13,7 +13,6 @@ email lunch order to: sdohack@gmail.com
 Developer                                           | Order Preference
 ----------------------------------------------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Pad Drunken Noodle - Medium
-[Minho](https://github.com/minhochoi)               | Chicken Panang Curry - Thai Hot
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Hot

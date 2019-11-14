@@ -13,4 +13,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Teriyaki bowl w/ Steak
 [Daniel](https://github.come/dtartaglia)            | Strawberry Fuji Salad w/ Grilled Citrus Chicken
 [Lucas](https://github.com/LucasClaude)             | Rise & Shine Bowl - garlic herb chicken, ranch dressing
-[Cory]()                                            | Pesto Club Wrap with garlic herb chicken
+[Cory]()                                            | Pesto Club Wrap with garlic herb chicken, side house salad

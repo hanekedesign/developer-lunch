@@ -16,3 +16,4 @@ Developer                                           | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Lucas](https://github.com/)                        | Chicken Fried Rice
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Thai hot
+[Minho](https://github.com/minhochoi)               | Beef Panang Curry - Thai hot

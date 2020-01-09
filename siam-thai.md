@@ -18,3 +18,4 @@ Developer                                           | Order Preference
 [Cory](https://github.com/khaladin)                 | Chicken Green Curry - Thai hot
 [Minho](https://github.com/minhochoi)               | Beef Panang Curry - Thai hot
 [Chris](https://github.com/chris-packett)           | Chicken Fried Rice
+[Adam](https://github.com/ahaubenstock)             | Chicken Pad See-Ew

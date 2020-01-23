@@ -12,7 +12,7 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Italian on white
 [Cory](https://github.com/Khaladin)                 | Thai Chicken Wrap, side salad with ceaser
 [Lucas](https://github.com/LucasClaude)             | Chipotle Chicken Avocado on Wheat w/ a cup of Broccoli & Cheddar
-[Adam](https://github.com/ahaubenstock)             | The Full Montagu® on WHeat w/ a bowl of Tomato
+[Adam](https://github.com/ahaubenstock)             | The Full Montagu® on Wheat w/ a bowl of Tomato
 
 
 Order at: https://order.earlofsandwichusa.com

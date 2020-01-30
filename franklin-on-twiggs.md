@@ -12,5 +12,6 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              |  Hibatchi bowl w/ chicken, crispy onions, TOASTED SESAME SEEDS, spicy mayo
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Two Spicy Style Tacos - Corn Shell, Steak, and Crispy Onions
 [Lucas](https://github.com/lucasclaude)             | 
+[Adam](https://github.com/ahaubenstock)             |

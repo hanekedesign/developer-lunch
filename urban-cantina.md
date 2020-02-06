@@ -14,4 +14,4 @@ Developer     | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
 [Lucas]()                                           | Carnitas Tacos
 [Adam](https://github.com/ahaubenstock)             | Tacos Al Pastor, Rice & Beans
-[Blaine]()                                          | Cantina Burrito - Steak, Side of Guac
+[Blaine]()                                          | Cantina Burrito - Steak, Chips & Salsa

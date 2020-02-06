@@ -3,7 +3,7 @@
 ###### Tampa, FL 33602
 ###### (813) 221-8226
 
-[View Menu](https://store7.geomerx.com/urbancantina/index.cfm?fuseaction=category&categoryID=1)
+[View Menu](https://www.urbancantina.com/menus/)
 
 
 

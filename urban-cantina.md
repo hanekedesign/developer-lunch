@@ -13,5 +13,5 @@ Developer     | Order Preference
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
 [Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
 [Lucas]()                                           | Carnitas Tacos
-[Adam](https://github.com/ahaubenstock)             | Tinga Taco, Al Pastor Taco, Rice & Beans
-[Blaine]()                                          | 
+[Adam](https://github.com/ahaubenstock)             | Tinga Taco, Al Pastor Taco, Carne Asada Taco, Rice & Beans
+[Blaine]()                                          | Cantina Burrito - Steak

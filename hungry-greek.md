@@ -13,4 +13,5 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Gyro Dinner w/ white pita & side greek salad
 [Daniel](https://github.come/dtartaglia)            | Chicken Pita w/ white pita
 [Lucas](https://github.com/lucasclaude)             | Chicken Souvlaki w/ wheat pita & side greek salad
-[Cory](https://github.com/)                         | Philly Pita w/ chicken, side greek salad
+[Blaine](https://github.com/)                       | 
+[Adam](https://github.com/)                         |

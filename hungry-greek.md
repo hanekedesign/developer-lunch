@@ -14,4 +14,4 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Chicken Pita w/ white pita
 [Lucas](https://github.com/lucasclaude)             | Chicken Souvlaki w/ wheat pita & side greek salad
 [Blaine](https://github.com/)                       | 
-[Adam](https://github.com/)                         |
+[Adam](https://github.com/)                         | Greek bowl w/ chicken

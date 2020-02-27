@@ -19,3 +19,4 @@ Developer     | Order
 [Cory](https://github.com/)                         | Burnt ends Plate w/ collards & loaded potato salad
 [Charlie](https://github.com/charliedraper)          | Pulled Pork Plate w/ Regular Mac 'n Cheese & French Fries
 [Adam](https://github.com/ahaubenstock)             | Brisket Plate w/ Green beans 'n ham & French fries
+[Blaine](https://github.com/blainelawson)           | Pulled Pork Plate w/Collards and Okra

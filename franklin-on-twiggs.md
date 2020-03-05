@@ -15,3 +15,4 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Two Spicy Style Tacos - Corn Shell, Steak, and Crispy Onions
 [Lucas](https://github.com/lucasclaude)             | Mexican Style Burrito Bowl - White Rice, steak, chicken
 [Adam](https://github.com/ahaubenstock)             | american style half burrito bowl - white rice, steak AND mexican style half burrito bowl - white rice, chicken
+[Blaine](https://github.com/blainelawson)           | Hibatchi bowl w/ brown rice, chicken, all the normal accoutrements

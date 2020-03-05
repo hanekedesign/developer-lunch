@@ -10,7 +10,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              |  Hibatchi bowl w/ chicken, crispy onions, TOASTED SESAME SEEDS, spicy mayo
+[Mark](http://github.com/mark-smithtb)              |  Hibatchi bowl w/ brown rice, chicken, crispy onions, TOASTED SESAME SEEDS, spicy mayo
 [Minho](https://github.com/minhochoi)               | Hibatchi bowl w/ pork, white rice, crispy onions, TOASTED SESAME SEEDS, spicy mayo
 [Daniel](https://github.come/dtartaglia)            | Two Spicy Style Tacos - Corn Shell, Steak, and Crispy Onions
 [Lucas](https://github.com/lucasclaude)             | Mexican Style Burrito Bowl - White Rice, steak, chicken

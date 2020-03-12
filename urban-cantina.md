@@ -11,7 +11,6 @@ Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
-[Daniel](https://github.come/dtartaglia)            | Cantina Burrito - Steak
 [Lucas]()                                           | Carnitas Tacos
 [Adam](https://github.com/ahaubenstock)             | Tacos Al Pastor, Rice & Beans
 [Blaine]()                                          | Cantina Burrito - Steak, Chips & Salsa

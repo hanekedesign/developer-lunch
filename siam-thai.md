@@ -15,8 +15,5 @@ Developer                                           | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Chicken Pad Drunken Noodle - Medium
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Lucas](https://github.com/)                        | Chicken Fried Rice
-[Cory](https://github.com/khaladin)                 | Chicken Green Curry - Thai hot
 [Minho](https://github.com/minhochoi)               | Beef Panang Curry - Thai hot
-[Chris](https://github.com/chris-packett)           | Chicken Fried Rice
-[Adam](https://github.com/ahaubenstock)             | Chicken Pad See-Ew
 [Blaine](https://github.com/blainelawson )          | Chicken Pad Druken Noodle - Hot

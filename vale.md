@@ -5,7 +5,7 @@
 ###### tampa@valefoodco.com
 
 
-[View Menu](https://valefoodco.revelup.com/weborder/?establishment=3)
+[View Menu](https://www.toasttab.com/vale-food-co-tampa-501-n-franklin-st/v3)
 
 
 Developer     | Order

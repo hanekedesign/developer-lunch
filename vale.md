@@ -10,6 +10,6 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | small Bowl, 2x Vegetable Quinoa, broccoli, turkey Ancho Pulled Chicken, spicy feta cheese, 2x chipotle ranch.
+[Mark](http://github.com/mark-smithtb)              | regular Bowl, Vegetable Quinoa, chipotle mac & cheese, broccoli, Ancho Pulled Chicken, spicy feta cheese, chipotle ranch.
 [Minho](https://github.com/minhochoi)               | a
 [Daniel](https://github.come/dtartaglia)            | Regular bowl, 2x Chipotle Mac 'n Cheese, 2x Roasted Broccoli, 2x House Flank Steak, Parmesan Cheese, Chipotle Ranch

@@ -13,6 +13,6 @@ email lunch order to: sdohack@gmail.com
 Developer                                           | Order Preference
 ----------------------------------------------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | 
-[Daniel](https://github.come/dtartaglia)            | 
+[Daniel](https://github.come/dtartaglia)            | Pad Drunken Noodle - Hot
 [Minho](https://github.com/minhochoi)               | 
 [Blaine](https://github.com/blainelawson )          | Chicken Pad Thai - Hot

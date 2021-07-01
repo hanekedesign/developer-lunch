@@ -7,7 +7,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Chicken shawarma sandwich w/side of fries
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.com/dtartaglia)             | 
 [Blaine](https://github.com/blainelawson)           | Chicken shawarma sandwich w/side of fries

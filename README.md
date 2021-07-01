@@ -10,3 +10,4 @@
 * [So Fresh](so-fresh.md)
 * [Urban Cantina](urban-cantina.md)
 * [Vale](vale.md)
+* [Falafel Inn Grill](falafel-inn-grill.md)

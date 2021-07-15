@@ -9,6 +9,3 @@ Developer     | Order Preference
 [Daniel](https://github.com/dtartaglia)           	| No anchovies
 [Minho](https://github.com/minhochoi)               | 
 [Mark](http://github.com/mark-smithtb)              | Supreme (not picky though)
-Kevin                                               | No anchovies
-Cory                                                | No mushrooms
-[Lucas](http://github.com/LucasClaude)              | No anchovies

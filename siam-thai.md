@@ -15,4 +15,4 @@ Developer                                           | Order Preference
 [Mark](http://github.com/mark-smithtb)              | Chicken Pad Drunken Noodle - Medium
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Minho](https://github.com/minhochoi)               | Beef Panang Curry - Thai Hot
-[Blaine](https://github.com/blainelawson )          | Chicken Pad Thai - Hot
+[Blaine](https://github.com/blainelawson )          | Eggplant with Basil with Chicken - Hot

@@ -11,5 +11,5 @@ Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
 [Minho](https://github.com/minhochoi)               | Carne Asada Tacos
-[Daniel](https://github.com/danielt1263)            | Chicken Cantina Burrito
+[Daniel](https://github.com/danielt1263)            | Chicken Cantina Burrito, Chips & Salsa
 [Blaine]()                                          | Cantina Burrito - Steak, Chips & Salsa

@@ -10,6 +10,6 @@
 Developer     | Order Preference
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Chicken Chimichanga
-[Minho](https://github.com/minhochoi)               | Carne Asada Tacos
+[Minho](https://github.com/minhochoi)               | TACOS DE EL JEFE Carnitas, Chips & Salsa
 [Daniel](https://github.com/danielt1263)            | Chicken Cantina Burrito, Chips & Salsa
 [Blaine]()                                          | Cantina Burrito - Steak, Chips & Salsa

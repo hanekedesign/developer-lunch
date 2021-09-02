@@ -9,5 +9,5 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | 
 [Minho](https://github.com/minhochoi)               | 
-[Daniel](https://github.com/dtartaglia)             | 
+[Daniel](https://github.com/dtartaglia)             | Italian Stallion
 [Lucas](https://github.com/lucasclaud)              |

@@ -8,6 +8,6 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | 
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | One Bangin' BLT + avocado (Sourdough)
 [Daniel](https://github.com/dtartaglia)             | Italian Stallion
 [Lucas](https://github.com/lucasclaud)              |

@@ -3,7 +3,7 @@
 ###### Tampa, FL 33602
 
 
-[View Menu](https://moxiesdowntown.com/menu)
+[View Menu](https://us.orderspoon.com/moxiescafedowntown)
 
 Developer     | Order
 --------------|---------------------

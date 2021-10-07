@@ -8,7 +8,7 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Breakfast Burrito with sausage and spinach wrap
-[Minho](https://github.com/minhochoi)               | 
+[Minho](https://github.com/minhochoi)               | Chicken Philly with Spicy Mustard and House Made Potato Salad
 [Daniel](https://github.com/dtartaglia)             | 
 [Lucas](https://github.com/lucasclaude)             | 
 [Blaine](https://github.com/blainelawson)           | 

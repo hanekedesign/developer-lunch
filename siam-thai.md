@@ -16,4 +16,4 @@ Developer                                           | Order Preference
 [Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
 [Minho](https://github.com/minhochoi)               | Beef Panang Curry - Thai Hot
 [Blaine](https://github.com/blainelawson )          | Eggplant with Basil with Chicken - Hot
-[Lucas](https://github.com/lucasclaude )            | Chicken Fried Rice - Mild
+[Lucas](https://github.com/lucasclaude )            | Chicken Fried Rice - extra chicken - Mild

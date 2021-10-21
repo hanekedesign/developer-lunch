@@ -14,3 +14,4 @@ Developer     | Order
 [Daniel](https://github.come/dtartaglia)            | Strawberry Fuji Salad w/ Grilled Citrus Chicken
 [Lucas](https://github.com/LucasClaude)             | Rise & Shine Bowl - garlic herb chicken, + extra caesar dressing
 [Blaine](https://github.com/blainelawson)           | Signature Salad w/Grilled citrus Chicken + croutons & extra balsamic vinaigrette
+Michael          | Rise & Shine Bowl - garlic herb chicken

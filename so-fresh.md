@@ -4,7 +4,7 @@
 ###### Tampa, FL 33602
 ###### (813) 999-1911
 
-[View Menu](https://ordering.chownow.com/order/1667/locations)
+[View Menu](https://order.lovesofresh.com/location/downtown%20tampa/pickup/5faef5856765d420316e58aa)
 
 
 Developer     | Order

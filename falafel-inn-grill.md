@@ -12,6 +12,6 @@ Developer     | Order
 [Mark](http://github.com/mark-smithtb)              | 
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
-[Lucas](https://github.com/lucasclaude)             | Beef Shawarma Plate
+[Lucas](https://github.com/lucasclaude)             | Beef Shawarma Plate w/ side of Taziki
 [Blaine](https://github.com/)                       | Chicken Shawarma Sandwich /w Side of Fries
 Michael                                             | Chicken Tawook Plate

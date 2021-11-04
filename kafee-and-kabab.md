@@ -11,4 +11,4 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Beef shawarma sandwich w/side of fries
 [Daniel](https://github.com/dtartaglia)             | Mixed Plate
 [Blaine](https://github.com/blainelawson)           | Chicken shawarma sandwich w/side of fries
-[Lucas](https://github.com/lucasclaude)             | Chicken shawarma sanwich w/ side salad
+[Lucas](https://github.com/lucasclaude)             | Chicken shawarma sanwich w/ side salad + side Tzatziki

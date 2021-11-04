@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | 
+[Mark](http://github.com/mark-smithtb)              | Chicken Shawarma Sandwich /w Side of Fries
 [Minho](https://github.com/minhochoi)               | 
 [Daniel](https://github.come/dtartaglia)            | 
 [Lucas](https://github.com/lucasclaude)             | Beef Shawarma Plate w/ side of Taziki

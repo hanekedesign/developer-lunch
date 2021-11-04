@@ -4,7 +4,7 @@
 ###### 813-223-5800
 
 
-[View Menu](https://www.toasttab.com/hungry-greek-franklin/v2/online-order#!/order)
+[View Menu](https://www.falafelinngrill.com/our-menu/)
 
 
 Developer     | Order

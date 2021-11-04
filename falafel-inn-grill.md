@@ -1,0 +1,16 @@
+## Falafel Inn Grill
+###### 777 N. Ashley Dr. Ste. B
+###### Tampa, FL
+###### 813-223-5800
+
+
+[View Menu](https://www.toasttab.com/hungry-greek-franklin/v2/online-order#!/order)
+
+
+Developer     | Order
+--------------|---------------------
+[Mark](http://github.com/mark-smithtb)              | 
+[Minho](https://github.com/minhochoi)               | 
+[Daniel](https://github.come/dtartaglia)            | 
+[Lucas](https://github.com/lucasclaude)             | 
+[Blaine](https://github.com/)                       | Chicken Shawarma Sandwich /w Side of Fries

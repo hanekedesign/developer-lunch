@@ -12,3 +12,4 @@ Developer     | Order
 [Daniel](https://github.com/dtartaglia)             | Italian Stallion
 [Lucas](https://github.com/lucasclaude)             | Turkey Reuben + Side Salad (Italian Vinaigrette)
 [Blaine](https://github.com/blainelawson).          | Turkey and Ranch + Side Salad (more ranch)
+Michael                                             | Italian Stallion + Sour Cream and Onion Chips

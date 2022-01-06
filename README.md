@@ -5,6 +5,7 @@
 * [Eddie & Sam's](eddie-and-sams.md)
 * [Falafel Inn Grill](falafel-inn-grill.md)
 * [Hungry Greek](hungry-greek.md)
+* [Kafee & Kabab](kafee-and-kabab.md)
 * [Siam Thai](siam-thai.md)
 * [So Fresh](so-fresh.md)
 * [Supernatural](supernatural.md)

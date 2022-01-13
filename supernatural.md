@@ -11,5 +11,5 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | One Bangin' BLT + avocado (Sourdough)
 [Daniel](https://github.com/dtartaglia)             | Italian Stallion
 [Lucas](https://github.com/lucasclaude)             | 
-[Blaine](https://github.com/blainelawson).          | House Chopped Salad - no croutons - sherry vinaigrette
+[Blaine](https://github.com/blainelawson)          | House Chopped Salad - no croutons - sherry vinaigrette
 Michael                                             | Chicken Salad Supreme /w Avocado + Brownie

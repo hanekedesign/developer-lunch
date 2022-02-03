@@ -15,4 +15,4 @@ Developer                                           | Order Preference
 [Minho](https://github.com/minhochoi)               | Beef Panang Curry - Thai Hot
 [Blaine](https://github.com/blainelawson )          | Eggplant with Basil with Chicken - Thai Hot
 [Lucas](https://github.com/lucasclaude )            | Chicken Fried Rice - extra chicken - Mild
-Michael                                             | Chicken Prig Khing - Medium
+Michael                                             | Chicken Pad Thai - Medium

@@ -11,8 +11,8 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Kick n Chicken Boozle Bowl w/ carrot, red bell pepper, cucumber, red onion, thai basil, zesty chili sauce, 
 [Blaine](https://github.com/blainelawson)           | Beef Pho
-[Daniel](https://github.come/dtartaglia)            | Beef Pho (Bo)
-Michael                                           | Grilled Chicken Boozle Bowl w/ carrot, red bell pepper, cucumber, red onion, thai basil, zesty chili sauce, 
+[Daniel](https://github.come/dtartaglia)            | Grilled Beef Banh Mi
+Michael                                             | Grilled Chicken Boozle Bowl w/ carrot, red bell pepper, cucumber, red onion, thai basil, zesty chili sauce, 
 
 
 <a href="mailto:info@bamboozlecafe.com?cc=bamboozlecafe@gmail.com&subject=11:30am%20Haneke%20Design%20Developer Lunch&body=https%3A%2F%2Fgithub.com%2Fhanekedesign%2Fdeveloper-lunch%2Fblob%2Fmaster%2Fbamboozle.md">Send Email</a>

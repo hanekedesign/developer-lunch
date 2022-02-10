@@ -9,7 +9,7 @@
 
 Developer     | Order
 --------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | Beef Pho & 2 springrolls
+[Mark](http://github.com/mark-smithtb)              | Kick n Chicken Boozle Bowl w/ carrot, red bell pepper, cucumber, red onion, thai basil, zesty chili sauce, 
 [Blaine](https://github.com/blainelawson)           | Beef Pho
 [Daniel](https://github.come/dtartaglia)            | Beef Pho (Bo)
 Michael                                           | Grilled Chicken Boozle Bowl w/ carrot, red bell pepper, cucumber, red onion, thai basil, zesty chili sauce, 

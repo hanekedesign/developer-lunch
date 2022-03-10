@@ -10,7 +10,6 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | greek bowl w/ gyro meat
-[Minho](https://github.com/minhochoi)               | Gyro Dinner w/ white pita & side greek salad
 [Daniel](https://github.come/dtartaglia)            | Chicken Pita w/ white pita
 [Marcus](https://github.com/marcustf)               | Gyro Dinner w/ white pita & side greek salad, chopped
 [Blaine](https://github.com/)                       | Gyro Pita w/white pita & side greek salad

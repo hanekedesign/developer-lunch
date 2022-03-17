@@ -11,5 +11,5 @@ Developer     | Order
 [Minho](https://github.com/minhochoi)               | Beef Kabab Sandwich
 [Daniel](https://github.com/dtartaglia)             | Beef Kafta Kabab Sandwich
 [Blaine](https://github.com/blainelawson)           | Chicken shawarma sandwich w/side of fries
-[Lucas](https://github.com/lucasclaude)             | Chicken shawarma sanwich w/ side salad + side Tzatziki
-Michael                                             | Chicken Shawarma Sandwich  w/fries + Chocolate Baklava 
+[Marcus](https://github.com/marcustf)               | Chicken Shawarma Sandwich w/fries + side Garlic Sauce (Because [Blaine](https://github.com/blainelawson) Told me To 😉) + Turkish Coffee
+Michael                                             | Chicken Shawarma Sandwich w/fries + Chocolate Baklava 

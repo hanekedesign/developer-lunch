@@ -10,8 +10,5 @@
 
 Developer                                           | Order Preference
 ----------------------------------------------------|---------------------
-[Mark](http://github.com/mark-smithtb)              | PINEAPPLE FRIED RICE
-[Daniel](https://github.come/dtartaglia)            | Chicken Pad Drunken Noodle - Hot
-[Blaine](https://github.com/blainelawson )          | Eggplant with Basil with Chicken - Thai Hot
-[Marcus](https://github.com/MarcusTF )              | Massaman with Chicken - Thai Hot
+[Mark](http://github.com/mark-smithtb)              | Chicken Pad Drunken Noodle - Medium
 Michael                                             | Chicken Pad Thai - Medium

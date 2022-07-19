@@ -10,5 +10,5 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | 
 [Nicolas](https://github.com/nicolasmd1985)         |
-Michael                                             | 
+Michael                                             | Avocado BLT Wrap + We Vegan Eats Brownie
 [Marcus](https://github.come/MarcusTF)              | Fuego Deluxe Cheesesteak

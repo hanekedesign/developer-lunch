@@ -9,6 +9,6 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | Fuego Deluxe Cheesesteak
-[Nicolas](https://github.com/nicolasmd1985)         |
+[Nicolas](https://github.com/nicolasmd1985)         | BUFFALO
 Michael                                             | Avocado BLT Wrap + We Vegan Eats Brownie
 [Marcus](https://github.come/MarcusTF)              | Fuego Deluxe Cheesesteak

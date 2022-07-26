@@ -11,4 +11,4 @@ Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | custom chicken bowl with baby spinach, red quinoa, onions, corn, tomatoes, mushrooms, goat cheese, sweet chili sauce
 Michael                                             | Rise & Shine Bowl - garlic herb chicken
-[Marcus](https://github.com/marcustf)               | Homemade Ham, Mortadella, and Capacollo sandwich with Chipolte Habanero Havarti cheese, on toasted Japanese Milk Bread
+[Marcus](https://github.com/marcustf)               | Custom bowl - brown rice, chickpeas, onions, mushrooms, tzatziki, garlic herb chicken, feta

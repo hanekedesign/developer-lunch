@@ -10,5 +10,5 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | greek bowl w/ gyro meat
-[Michael](https://github.com/)                      | Chicken Pita w/ fries & chicken skewer
+[Michael](https://github.com/)                      | Fajita Bowl w/ gyro meat
 [Nicolas](https://github.com/nicolasmd1985)         | Chicken Pita w/ fries 

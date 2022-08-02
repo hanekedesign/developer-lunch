@@ -10,7 +10,5 @@
 Developer     | Order
 --------------|---------------------
 [Mark](http://github.com/mark-smithtb)              | greek bowl w/ gyro meat
-[Daniel](https://github.come/dtartaglia)            | Chicken Pita w/ white pita
-[Marcus](https://github.com/marcustf)               | Gyro Dinner w/ white pita & side greek salad, chopped
-[Blaine](https://github.com/)                       | Gyro Pita w/white pita & side greek salad
 [Michael](https://github.com/)                      | Chicken Pita w/ fries & chicken skewer
+[Nicolas](https://github.com/nicolasmd1985)         | Chicken Pita w/ fries 
